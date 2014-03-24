@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta name="description" content="simple bookmarklet to inject the current time into webpages. no ads, no tracking, no further modifications.">
+<meta name="keywords" content="bookmark, bookmarklet, date, datestamp, time, timestamp">
+<title>timestamplet</title>
+<style>body{background:#fff url(timestamplet.png) no-repeat;font-family:sans-serif;margin:15px 45px;}code{background:#eef;border:1px solid #000;display:block;padding:10px;width:640px;word-wrap:break-word;}</style>
+</head>
+<body>
+<h1>timestamp<sub>let</sub></h1>
+<h2>about</h2>
+<p>a simple <a href="//en.wikipedia.org/wiki/Bookmarklet">bookmarklet</a> to inject the current time into webpages, e.g. for printouts and screenshots.</p>
+<h2>bookmark</h2>
+<p>drag the following link to your bookmark toolbar or right-click to add it to your favorites: <b><a href="javascript:{var d=document.createElement('div');d.innerHTML=new Date().toLocaleString();d.style.cssText='background:#ffe;border:1px solid #000;color:#000;font:12px sans-serif;padding:4px;position:fixed;top:8px;left:8px;z-index:9999';document.getElementsByTagName('body')[0].appendChild(d);};void(0);">timestamp<sub>let</sub></a></b></p>
+<h2>code</h2>
+<code>javascript:{var d=document.createElement('div');d.innerHTML=new Date().toLocaleString();d.style.cssText='background:#ffe;border:1px solid #000;color:#000;font:12px sans-serif;padding:4px;position:fixed;top:8px;left:8px;z-index:9999';document.getElementsByTagName('body')[0].appendChild(d);};void(0);</code>
+<p>no ads, no tracking, no further modification of the website. share and enjoy. =)<p>
+</body>
+</html>
