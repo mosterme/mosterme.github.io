@@ -1,6 +1,6 @@
 var language=navigator.languages?navigator.languages[0]:navigator.language||navigator.userLanguage;language=language.substring(0,2); "denesfrit".indexOf(language)>=0||(language="en"); (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-63519733-4','auto');ga('send','pageview');
-var stages="https://s3-ap-northeast-1.amazonaws.com/splatoon-data.nintendo.net/stages_info.json";
-var images="https://www.nintendo.co.jp/wiiu/agmj/stage/images/stage/",suffix=".png";
+var stages="//s3-ap-northeast-1.amazonaws.com/splatoon-data.nintendo.net/stages_info.json";
+var images="//www.nintendo.co.jp/wiiu/agmj/stage/images/stage/",suffix=".png";
 
 var messages={
 	de:{turf:"Revierkampf",rank:"Rangkampf",splat:"Herrschaft",eefffc33ee1956b7b70e250d5835aa67be9152d42bc76aa8874987ebdfc19944:"Dekabahnstation",b8067d2839476ec39072e371b4c59fa85454cdb618515af080ca6080772f3264:"Heilbutt-Hafen","50c01bca5b3117f4f7893df86d2e2d95435dbb1aae1da6831b8e74838859bc7d":"Bohrinsel Nautilus","9a1736540c3fde7e409cb9c7e333441157d88dfe8ce92bc6aafcb9f79c56cb3d":"Punkasius-Skatepark",d7bf0ca4466e980f994ef7b32faeb71d80611a28c5b9feef84a00e3c4c9d7bc1:"Kofferfisch-Lager","8c69b7c9a81369b5cfd22adbf41c13a8df01969ff3d0e531a8bcb042156bc549":"Arowana-Center",c52a7ab7202a576ee18d94be687d97190e90fdcc25fc4b1591c1a8e0c1c299a5:"Tümmlerkuppel","1ac0981d03c18576d9517f40461b66a472168a8f14f6a8714142af9805df7b8c":"Blauflossen-Depot"},
