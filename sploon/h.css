@@ -1,7 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
-body{background:url(i/b.png) fixed;font-family:sans-serif;text-align:center}
+body{font-family:sans-serif;text-align:center}
 figure,h1,h2{font-family:'Permanent Marker',cursive}
 figure{background:url(i/f.png);display:inline-block}
 h1{color:violet; font-size:3em} h2{font-size:2em;margin:1em 0 0} .turf{color:lime} .rank{color:orange}
-time{background:url(i/f.png) center;border: 2px solid aqua;border-radius:20px;font-weight:bold;padding:10px 20px}
-time:before{content:url(i/c.png);padding:0 5px 0 0;vertical-align:-50%}
+time{font-weight:bold} time:before{content:url(i/c.png);padding:0 5px 0 0;vertical-align:-50%}
