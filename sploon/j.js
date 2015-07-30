@@ -35,6 +35,6 @@ function tack(a,e,c){
 
 $(document).ready(function(){
 	$(".turf").text(messages[language].turf),
-	$(".rank").text(messages[language].splat),
+	$(".rank").text(messages[language].rank),
 	setInterval(tick,1e3),tick(),tock()
 });
