@@ -1,6 +1,0 @@
-@import url(//fonts.googleapis.com/css?family=Permanent+Marker);
-body{font-family:sans-serif;text-align:center}
-figure,h1,h2{font-family:'Permanent Marker',cursive}
-figure{background:url(i/f.png);display:inline-block}
-h1{color:violet; font-size:3em} h2{font-size:2em;margin:1em 0 0} .turf{color:lime} .rank{color:orange}
-time{font-weight:bold} time:before{content:url(i/c.png);padding:0 5px 0 0;vertical-align:-50%}
