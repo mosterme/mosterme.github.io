@@ -1,0 +1,6 @@
+@import "http://fonts.googleapis.com/css?family=Sigmar+One";
+body{background:url(b.jpg) no-repeat center fixed;background-size:cover;color:#444;font-family:'Sigmar One',cursive;padding:0 40px;text-align:center}
+figure{background:#ddd;display:inline-block;margin:0 20px 40px} time{background:#ddd;border-radius:20px;font-weight:700;padding:10px 20px}
+h1{background-repeat:no-repeat;background-size:82px 74px;color:#ddd;min-height:64px;margin:10px -40px 0;padding:10px 90px 0;text-align:left}
+section{background:rgba(8,8,8,.8);border-radius:20px;margin:30px auto;padding:0 10px 20px;max-width:700px}
+.rank{background-image:url(ra.svg)} .regular{background-image:url(re.svg)}
