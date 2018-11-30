@@ -1,0 +1,31 @@
+#!/bin/sh
+export TERM=xterm-256color
+r=`lsb_release -sd`
+k=`uname -srmo`
+p=`wget -q -O - http://icanhazip.com/ | tail`
+h=`hostname -f`
+a=`hostname -i | cut -d " " -f 1`
+d=`df -h  | grep root | awk {'print "total " $2 "	free " $4 "	used " $3 " (" $5 ")"'}`
+m=`free -h | grep Mem | awk {'print "total " $2 "	free " $7 "	used " $3'}`
+l=`cat /proc/loadavg`
+u=`uptime -p | sed s/up.//`
+
+NR='\033[0;31m'
+NG='\033[0;32m'
+BR='\033[1;31m'
+BG='\033[1;32m'
+RS='\033[0m'
+
+echo "
+$BG      .~~.   .~~.       $RS
+$BG     '. \ ' ' / .'      $NG $r - $k
+$BR      .~ .~~~..~.       $RS
+$BR     : .~.'~'.~. :      $NR hostname........:$BR $h
+$BR    ~ (   ) (   ) ~     $NR addresses.......: $a and $p
+$BR   ( : '~'.~.'~' : )    $NR disk............: $d
+$BR    ~ .~ (   ) ~. ~     $NR memory..........: $m
+$BR     (  : '~' :  )      $NR load ...........: $l
+$BR      '~ .~~~. ~'       $NR uptime..........: $u
+$BR          '~'           $RS
+"
+
