@@ -12,7 +12,7 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 
 ## Git Bash
 
-Friends don't let friends use the git bash shell on windows.
+Friends don't let friends use the git bash shell on windows. No judgement.
 
 
 ![Git Bash](images/terminal-1.png)
