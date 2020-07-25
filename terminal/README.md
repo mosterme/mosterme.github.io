@@ -100,6 +100,10 @@ To learn more about keybindings, visit https://aka.ms/terminal-keybindings
 
 ## Links
 
+### GitHub
+* [Windows Terminal](https://github.com/microsoft/terminal)
+* [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
 ### YouTube
 * [The new Windows Terminal](https://youtu.be/8gw0rXPMMPE)
 * [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw)
