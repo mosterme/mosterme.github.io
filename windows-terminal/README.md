@@ -1,10 +1,8 @@
 # Windows Terminal
 
-Windows Terminal is a new, modern, feature-rich, productive terminal application for command-line users.
+[Windows Terminal](https://aka.ms/terminal) is a new, modern, feature-rich, productive terminal application for command-line users.
 
 It includes many features like support for tabs, rich text, globalization, configurability, theming & styling, and more.
-
-[Windows Terminal](https://aka.ms/terminal)
  
 Windows Terminal will automatically create Windows Subsystem for Linux (WSL) and PowerShell profiles for you.
 
@@ -15,6 +13,7 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 
 ## Hot-Key
 
+---------- | ----------
 `❖` + `1` | blabla
 `Alt` + `Enter` or `F11` | toggle full screen
 `Ctrl` + `Mouse wheel` | change text size
