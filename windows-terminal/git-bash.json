@@ -1,11 +1,11 @@
-			{
-				"guid": "{00000000-0000-0000-ba54-000000000002}",
-				"colorScheme" : "One Half Dark",
-				"commandline" : "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
-				"fontFace" : "Consolas",
-				"icon" : "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
-				"name" : "Git Bash",
-				"padding" : "8,0,8,4",
-				"startingDirectory" : "%USERPROFILE%",
-				"suppressApplicationTitle" : true
-			}
+	{
+		"guid": "{00000000-0000-0000-ba54-000000000002}",
+		"name" : "Git Bash",
+		"colorScheme" : "One Half Dark",
+		"commandline" : "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
+		"fontFace" : "Cascadia Code",
+		"icon" : "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
+		"padding" : "8,0,8,4",
+		"startingDirectory" : "%USERPROFILE%",
+		"suppressApplicationTitle" : true
+	}
