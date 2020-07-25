@@ -11,13 +11,12 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 ![Windows Terminal](img/terminal-0.png)
 
 
-## Hot-Key
+## Hot-Keys
 
----------- | ----------
-`❖` + `1` | blabla
+`❖` + `1` | pin to taskbar
 `Alt` + `Enter` or `F11` | toggle full screen
-`Ctrl` + `Mouse wheel` | change text size
-`Ctrl` + `0` | restore default text size
+`Ctrl` + `Mouse wheel` | zoom with the mouse
+`Ctrl` + `0` | restore default text zoom
 `Ctrl` + `Tab` | switch to the next tab
 
 ## Git Bash
@@ -36,8 +35,8 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 	},
 ```
 
-## SSH Session
-Windows 10 has a built-in SSH client that you can use in Windows Terminal.
+## SSH Sessions
+Windows 10 has a built-in SSH client that you can use in Windows Terminal. No need for PuTTY anymore. :-)
 
 ![SSH Session](img/terminal-2.png)
 
