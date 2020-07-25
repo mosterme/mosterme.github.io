@@ -52,7 +52,7 @@ No need for PuTTY anymore.
 Windows Terminal includes already popular [color schemes](https://aka.ms/terminal-color-schemes)
 like [One Half](https://github.com/sonph/onehalf) or [Solarized](https://github.com/altercation/solarized).
 
-Custom color schemes can also be defined in the schemes array of your settings.json file.
+Custom color schemes can also be defined in the schemes array of your [settings.json](https://aka.ms/terminal-documentation) file.
 
 For example the beautiful [Nord](https://www.nordtheme.com/) theme would look like this.
 
@@ -80,10 +80,15 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 	},
 ```
 
-## Hot-Keys
+## Keybindings
+
+To learn more about keybindings, visit https://aka.ms/terminal-keybindings
 
 `❖` + `1` | when pinned to taskbar
 `Alt` + `Enter` or `F11` | toggle full screen
+`Ctrl` + `,` | open the settings
 `Ctrl` + `mouse wheel` | zoom with the mouse
 `Ctrl` + `0` | restore default text zoom
 `Ctrl` + `Tab` | switch to the next tab
+`Ctrl` + `Shift` + `Tab` | switch to the previous tab
+`Ctrl` + `Shift` + `f` | open the search box
