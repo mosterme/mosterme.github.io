@@ -36,7 +36,9 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 ```
 
 ## SSH Sessions
-Windows 10 has a built-in SSH client that you can use in Windows Terminal. No need for PuTTY anymore. :-)
+Windows 10 has a built-in SSH client that you can use in Windows Terminal.
+
+No need for PuTTY anymore. :wink:
 
 ![SSH Session](img/terminal-2.png)
 
