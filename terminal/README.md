@@ -8,19 +8,10 @@ Windows Terminal will automatically create Windows Subsystem for Linux (WSL) and
 
 Upon installing the terminal, it will set PowerShell as your default profile.
 
-![Windows Terminal](img/terminal-0.png)
-
-
-## Hot-Keys
-
-`❖` + `1` | pin to taskbar
-`Alt` + `Enter` or `F11` | toggle full screen
-`Ctrl` + `Mouse wheel` | zoom with the mouse
-`Ctrl` + `0` | restore default text zoom
-`Ctrl` + `Tab` | switch to the next tab
+![Windows Terminal](images/terminal-0.png)
 
 ## Git Bash
-![Git Bash](img/terminal-1.png)
+![Git Bash](images/terminal-1.png)
 
 ```javascript
 	{
@@ -38,9 +29,9 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 ## SSH Sessions
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
-No need for PuTTY anymore. :wink:
+No need for PuTTY anymore.
 
-![SSH Session](img/terminal-2.png)
+![SSH Session](images/terminal-2.png)
 
 ```javascript
 	{
@@ -55,7 +46,7 @@ No need for PuTTY anymore. :wink:
 		"backgroundImageAlignment": "bottomRight",
 	},
 ```
-	
+
 ## Color Schemes
 
 ```javascript
@@ -81,3 +72,11 @@ No need for PuTTY anymore. :wink:
 		"brightWhite": "#E5E9F0"
 	},
 ```
+
+## Hot-Keys
+
+`❖` + `1` | pin to taskbar
+`Alt` + `Enter` or `F11` | toggle full screen
+`Ctrl` + `Mouse wheel` | zoom with the mouse
+`Ctrl` + `0` | restore default text zoom
+`Ctrl` + `Tab` | switch to the next tab
