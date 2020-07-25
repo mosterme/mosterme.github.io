@@ -11,6 +11,10 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 ![Windows Terminal](images/terminal-0.png)
 
 ## Git Bash
+
+Friends don't let friends use the git bash shell on windows.
+
+
 ![Git Bash](images/terminal-1.png)
 
 ```javascript
@@ -29,7 +33,7 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 ## SSH
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
-No need for PuTTY anymore.
+There is no need for [https://www.cygwin.com/](Cygwin) or [https://www.chiark.greenend.org.uk/~sgtatham/putty/](PuTTY) anymore.
 
 ![SSH Session](images/terminal-2.png)
 
