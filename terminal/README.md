@@ -97,3 +97,10 @@ To learn more about keybindings, visit https://aka.ms/terminal-keybindings
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
 `Ctrl` + `Shift` + `f` | open the search box
+
+## Links
+
+### YouTube
+* [The new Windows Terminal](https://youtu.be/8gw0rXPMMPE)
+* [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw)
+* [Windows Terminal: The secret to command line happiness!](https://youtu.be/2dsnwlnNBzs)
