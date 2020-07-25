@@ -5,7 +5,7 @@
 				"fontFace" : "Consolas",
 				"icon" : "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
 				"name" : "Git Bash",
-				"padding" : "8,0",
+				"padding" : "8,0,8,4",
 				"startingDirectory" : "%USERPROFILE%",
 				"suppressApplicationTitle" : true
 			}
