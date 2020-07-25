@@ -49,7 +49,7 @@ No need for PuTTY anymore.
 
 ## Color schemes
 
-Windows Terminal includes already popular [color schemes](https://aka.ms/terminal-color-schemes)
+Windows Terminal already includes popular [color schemes](https://aka.ms/terminal-color-schemes)
 like [One Half](https://github.com/sonph/onehalf) or [Solarized](https://github.com/altercation/solarized).
 
 Custom color schemes can also be defined in the schemes array of your [settings.json](https://aka.ms/terminal-documentation) file.
