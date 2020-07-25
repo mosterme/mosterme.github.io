@@ -49,16 +49,15 @@ No need for PuTTY anymore.
 
 ## Color schemes
 
-Windows Terminal includes [color schemes](https://aka.ms/terminal-color-schemes)
-like [One Half](https://github.com/sonph/onehalf) or [Solarized](https://github.com/altercation/solarized) 
-already inside the defaults.json file.
+Windows Terminal includes already popular [color schemes](https://aka.ms/terminal-color-schemes)
+like [One Half](https://github.com/sonph/onehalf) or [Solarized](https://github.com/altercation/solarized).
 
 If you would like to set up a color scheme inside one of your command-line profiles,
-add the colorScheme property with the color scheme's name as the value.
+jusr add the colorScheme property with the color scheme's name as the value.
 
 Color schemes can also be defined in the schemes array of your settings.json file.
 
-Like the beautiful [Nord](https://www.nordtheme.com/) theme.
+For example the beautiful [Nord](https://www.nordtheme.com/) theme would look like this.
 
 ```javascript
 	{
