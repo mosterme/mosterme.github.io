@@ -2,27 +2,29 @@
 
 Windows Terminal is a new, modern, feature-rich, productive terminal application for command-line users.
 
-It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
-
+It includes many features like support for tabs, rich text, globalization, configurability, theming & styling, and more.
 
 [Windows Terminal](https://aka.ms/terminal)
  
 Windows Terminal will automatically create Windows Subsystem for Linux (WSL) and PowerShell profiles for you.
-This makes it easier for you to have all of your shells included in the terminal without having to locate their executable files. 
+
 Upon installing the terminal, it will set PowerShell as your default profile.
 
-## Hot-Key
 ![Windows Terminal](img/terminal-0.png)
 
-`❖` + `1` - 
-`Alt` + `Enter` or `F11` - toggle full screen
-`Ctrl` + `Mouse wheel` - change text size
-`Ctrl` + `0` - restore default text size
-`Ctrl` + `Tab` - switch to the next tab
+
+## Hot-Key
+
+`❖` + `1` | blabla
+`Alt` + `Enter` or `F11` | toggle full screen
+`Ctrl` + `Mouse wheel` | change text size
+`Ctrl` + `0` | restore default text size
+`Ctrl` + `Tab` | switch to the next tab
 
 ## Git Bash
 ![Git Bash](img/terminal-1.png)
 
+```javascript
 	{
 		"guid": "{00000000-0000-0000-ba54-000000000001}",
 		"name": "Git Bash",
@@ -33,12 +35,14 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 		"startingDirectory": "%USERPROFILE%",
 		"suppressApplicationTitle": true,
 	},
+```
 
 ## SSH Session
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
 ![SSH Session](img/terminal-2.png)
 
+```javascript
 	{
 		"guid": "{00000000-0000-0000-ba54-000000000002}",
 		"name": "Raspberry 3",
@@ -50,9 +54,11 @@ Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 		"backgroundImageStretchMode": "none",
 		"backgroundImageAlignment": "bottomRight",
 	},
+```
 	
 ## Color Schemes
 
+```javascript
 	{
 		"name": "Nord",
 		"foreground": "#D8DEE9",
@@ -74,4 +80,4 @@ Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 		"brightCyan": "#88C0D0",
 		"brightWhite": "#E5E9F0"
 	},
-
+```
