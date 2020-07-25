@@ -92,6 +92,7 @@ To learn more about keybindings, visit https://aka.ms/terminal-keybindings
 `Alt` + `Enter` or `F11` | toggle full screen
 `Ctrl` + `,` | open the settings
 `Ctrl` + `mouse wheel` | zoom with the mouse
+`Ctrl` + `=` or `Ctrl` + `-` | zoom with keyboard
 `Ctrl` + `0` | restore default text zoom
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
