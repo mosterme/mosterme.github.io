@@ -1,11 +1,12 @@
 # Windows Terminal
-![Windows Terminal](/img/terminal-0.png)
+![Windows Terminal](img/terminal-0.png)
 
 ## Hot-Key
-❖ + 1
+`❖` + `1`
 
 ## Git Bash
-![Git Bash](/img/terminal-1.png)
+![Git Bash](img/terminal-1.png)
+
 	{
 		"guid": "{00000000-0000-0000-ba54-000000000001}",
 		"name": "Git Bash",
@@ -18,7 +19,7 @@
 	},
 
 ## SSH Session
-![SSh Session](/img/terminal-2.png)
+![SSh Session](img/terminal-2.png)
 
 	{
 		"guid": "{00000000-0000-0000-ba54-000000000002}",
