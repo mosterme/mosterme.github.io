@@ -33,7 +33,7 @@ Friends don't let friends use the git bash shell on windows.
 ## SSH
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
-There is no need for [https://www.cygwin.com/](Cygwin) or [https://www.chiark.greenend.org.uk/~sgtatham/putty/](PuTTY) anymore.
+There is no need for [Cygwin](https://www.cygwin.com/) or [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) anymore.
 
 ![SSH Session](images/terminal-2.png)
 
