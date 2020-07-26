@@ -105,12 +105,13 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 * [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw).
 * [Windows Terminal: The secret to command line happiness!](https://youtu.be/2dsnwlnNBzs)
 
-### Microsoft | Docs | [Windows Terminal](https://aka.ms/terminal-documentation)
+### Microsoft | Docs
+* Learn more about [Windows Terminal](https://aka.ms/terminal-documentation).
 * Learn more about [global settings](https://aka.ms/terminal-global-settings).
 * Learn more about [profiles](https://aka.ms/terminal-profile-settings).
 * Learn more about [color schemes](https://aka.ms/terminal-color-schemes).
 * Learn more about [keybindings](https://aka.ms/terminal-keybindings).
-* Learn more about [selection](https://aka.ms/terminal-selection)s.
+* Learn more about [selections](https://aka.ms/terminal-selection).
 * Learn more about [panes](https://aka.ms/terminal-panes).
 
 ### GitHub
