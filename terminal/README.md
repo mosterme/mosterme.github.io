@@ -94,6 +94,8 @@ To learn more about keybindings, visit https://aka.ms/terminal-keybindings
 `Ctrl` + `mouse wheel` | zoom with the mouse
 `Ctrl` + `=` or `Ctrl` + `-` | zoom with keyboard
 `Ctrl` + `0` | restore default text zoom
+`Ctrl` + `c` | copy [selection](https://aka.ms/terminal-selection)
+`Ctrl` + `v` | paste the clipboard
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
 `Ctrl` + `Shift` + `f` | open the search box
