@@ -86,19 +86,20 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 
 ## Keybindings
 
-To learn more about keybindings, visit https://aka.ms/terminal-keybindings
-
 `❖` + `1` | when pinned to taskbar
 `Alt` + `Enter` or `F11` | toggle full screen
 `Ctrl` + `,` | open the settings
 `Ctrl` + `mouse wheel` | zoom with the mouse
-`Ctrl` + `=` or `Ctrl` + `-` | zoom with keyboard
-`Ctrl` + `0` | restore default text zoom
+`Ctrl` + `=` or `Ctrl` + `-` | zoom with the keyboard
+`Ctrl` + `0` | restore the default text zoom
 `Ctrl` + `c` | copy [selection](https://aka.ms/terminal-selection)
 `Ctrl` + `v` | paste the clipboard
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
 `Ctrl` + `Shift` + `f` | open the search box
+
+* Learn more about [keybindings](https://aka.ms/terminal-keybindings).
+* Learn more about [selection](https://aka.ms/terminal-selection)s.
 
 ## Links
 
