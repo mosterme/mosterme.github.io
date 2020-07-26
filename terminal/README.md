@@ -92,7 +92,7 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 `Ctrl` + `mouse wheel` | zoom with the mouse
 `Ctrl` + `=` or `Ctrl` + `-` | zoom with the keyboard
 `Ctrl` + `0` | restore the default text zoom
-`Ctrl` + `c` | copy [selection](https://aka.ms/terminal-selection)
+`Ctrl` + `c` | copy the selection
 `Ctrl` + `v` | paste the clipboard
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
@@ -109,5 +109,5 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 
 ### YouTube
 * [The new Windows Terminal](https://youtu.be/8gw0rXPMMPE)
-* [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw)
+* [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw).
 * [Windows Terminal: The secret to command line happiness!](https://youtu.be/2dsnwlnNBzs)
