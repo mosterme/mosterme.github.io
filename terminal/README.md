@@ -98,16 +98,21 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
 `Ctrl` + `Shift` + `f` | open the search box
 
-* Learn more about [keybindings](https://aka.ms/terminal-keybindings).
-* Learn more about [selection](https://aka.ms/terminal-selection)s.
-
 ## Links
-
-### GitHub
-* [Windows Terminal](https://github.com/microsoft/terminal)
-* [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 ### YouTube
 * [The new Windows Terminal](https://youtu.be/8gw0rXPMMPE)
 * [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw).
 * [Windows Terminal: The secret to command line happiness!](https://youtu.be/2dsnwlnNBzs)
+
+### Microsoft | Docs | [Windows Terminal](https://aka.ms/terminal-documentation)
+* Learn more about [global settings](https://aka.ms/terminal-global-settings).
+* Learn more about [profiles](https://aka.ms/terminal-profile-settings).
+* Learn more about [color schemes](https://aka.ms/terminal-color-schemes).
+* Learn more about [keybindings](https://aka.ms/terminal-keybindings).
+* Learn more about [selection](https://aka.ms/terminal-selection)s.
+* Learn more about [panes](https://aka.ms/terminal-panes).
+
+### GitHub
+* [Windows Terminal](https://github.com/microsoft/terminal)
+* [Cascadia Code](https://github.com/microsoft/cascadia-code)
