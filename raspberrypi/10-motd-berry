@@ -1,14 +1,13 @@
 #!/bin/sh
 export TERM=xterm-256color
-r=`lsb_release -sd`
-k=`uname -srmo`
-p=`wget -q -O - http://ipv4.icanhazip.com/ | tail`
-h=`hostname -f`
-a=`hostname -i | cut -d " " -f 2`
-d=`df -h  | grep root | awk {'print "total " $2 "	free " $4 "	used " $3 " (" $5 ")"'}`
-m=`free -h | grep Mem | awk {'print "total " $2 "	free " $7 "	used " $3'}`
-l=`uptime | cut -d , -f 4,5,6 | cut -d : -f 2`
-u=`uptime -p | sed s/up.//`
+r=$(lsb_release -sd)
+k=$(uname -srmo)
+p=$(wget -q -O - http://ipv4.icanhazip.com/ | tail)
+h=$(hostname -f)
+a=$(hostname -i | cut -d " " -f 2)
+d=$(df -h  | grep root | awk {'print "total " $2 "	free " $4 "	used " $3 " (" $5 ")"'})
+m=$(free -h | grep Mem | awk {'print "total " $2 "	free " $7 "	used " $3'})
+u=$(uptime -p | sed s/up.//)
 
 cpu=$(cut -c 1,2 /sys/class/thermal/thermal_zone0/temp)
 gpu=$(/opt/vc/bin/vcgencmd measure_temp | cut -c 7,6)
@@ -33,6 +32,6 @@ $BR    ~ (   ) (   ) ~     $NR addresses.......: $CY$a$NR and $PU$p
 $BR   ( : '~'.~.'~' : )    $NR disk............: $d
 $BR    ~ .~ (   ) ~. ~     $NR memory..........: $m
 $BR     (  : '~' :  )      $NR temperature.....: $YE$t
-$BR      '~ .~~~. ~'       $NR uptime..........: $u	load$l
+$BR      '~ .~~~. ~'       $NR uptime..........: $u
 $BR          '~'           $RS
 "
