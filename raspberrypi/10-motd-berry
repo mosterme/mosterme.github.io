@@ -12,6 +12,7 @@ u=`uptime -p | sed s/up.//`
 
 BG='\033[1;32m'
 BR='\033[1;31m'
+CY='\033[1;36m'
 NG='\033[0;32m'
 NR='\033[0;31m'
 PU='\033[1;35m'
@@ -22,7 +23,7 @@ $BG      .~~.   .~~.       $RS
 $BG     '. \ ' ' / .'      $NG $r - $k
 $BR      .~ .~~~..~.       $RS
 $BR     : .~.'~'.~. :      $NR hostname........: $BR$h
-$BR    ~ (   ) (   ) ~     $NR addresses.......: $BG$a$NR and $PU$p
+$BR    ~ (   ) (   ) ~     $NR addresses.......: $CY$a$NR and $PU$p
 $BR   ( : '~'.~.'~' : )    $NR disk............: $d
 $BR    ~ .~ (   ) ~. ~     $NR memory..........: $m
 $BR     (  : '~' :  )      $NR load ...........: $l
