@@ -12,6 +12,7 @@ u=`uptime -p | sed s/up.//`
 
 cpu=$(cut -c 1,2 /sys/class/thermal/thermal_zone0/temp)
 gpu=$(/opt/vc/bin/vcgencmd measure_temp | cut -c 7,6)
+t="CPU ${cpu}° C	GPU ${gpu}° C"
 
 BG='\033[1;32m'
 BR='\033[1;31m'
@@ -20,6 +21,7 @@ NG='\033[0;32m'
 NR='\033[0;31m'
 PU='\033[1;35m'
 RS='\033[0m'
+YE='\033[1;33m'
 
 
 echo "
@@ -30,7 +32,7 @@ $BR     : .~.'~'.~. :      $NR hostname........: $BR$h
 $BR    ~ (   ) (   ) ~     $NR addresses.......: $CY$a$NR and $PU$p
 $BR   ( : '~'.~.'~' : )    $NR disk............: $d
 $BR    ~ .~ (   ) ~. ~     $NR memory..........: $m
-$BR     (  : '~' :  )      $NR temperature.....: CPU $cpu° C	GPU $gpu° C
+$BR     (  : '~' :  )      $NR temperature.....: $YE$t
 $BR      '~ .~~~. ~'       $NR uptime..........: $u	load$l
 $BR          '~'           $RS
 "
