@@ -34,4 +34,3 @@ $BR  | '--------------' |  $NR temperature ....: CPU $cpu° C	GPU $gpu° C
 $BR  |  $DG##    ()    ##$BR  |  $NR uptime..........: $u	load$l
 $BR  '=================='  $RS
 "
-
