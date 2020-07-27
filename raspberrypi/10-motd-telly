@@ -7,8 +7,11 @@ h=`hostname -f`
 a=`hostname -i | cut -d " " -f 2`
 d=`df -h  | grep root | awk {'print "total " $2 "	free " $4 "	used " $3 " (" $5 ")"'}`
 m=`free -h | grep Mem | awk {'print "total " $2 "	free " $7 "	used " $3'}`
-l=`cat /proc/loadavg`
+l=`uptime | cut -d , -f 4,5,6 | cut -d : -f 2`
 u=`uptime -p | sed s/up.//`
+
+cpu=$(cut -c 1,2 /sys/class/thermal/thermal_zone0/temp)
+gpu=$(/opt/vc/bin/vcgencmd measure_temp | cut -c 7,6)
 
 BG='\033[1;31m'
 BR='\033[0;33m'
@@ -27,8 +30,8 @@ $BR  | |$PU--.__.--.__.--$BR| |  $NR hostname........: $BG$h
 $BR  | |$CY--.__.--.__.--$BR| |  $NR addresses.......: $CY$a$NR and $PU$p
 $BR  | |$PU--.__.--.__.--$BR| |  $NR disk............: $d
 $BR  | |$CY--.__.--.__.--$BR| |  $NR memory..........: $m
-$BR  | '--------------' |  $NR load ...........: $l
-$BR  |  $DG##    ()    ##$BR  |  $NR uptime..........: $u
+$BR  | '--------------' |  $NR temperature ....: CPU $cpu° C	GPU $gpu° C
+$BR  |  $DG##    ()    ##$BR  |  $NR uptime..........: $u	load$l
 $BR  '=================='  $RS
 "
 
