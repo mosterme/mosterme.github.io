@@ -33,7 +33,11 @@ Friends don't let friends use the git bash shell on windows. No judgement.
 ## SSH
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
+You can enter the ssh invocation directly into the "commandline" parameter.
+
 There is no need for [Cygwin](https://www.cygwin.com/) or [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) anymore.
+
+See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh) for more details.
 
 ![SSH Session](images/terminal-2.png)
 
@@ -44,7 +48,7 @@ There is no need for [Cygwin](https://www.cygwin.com/) or [PuTTY](https://www.ch
 		"commandline": "ssh pi@raspberry3.localdomain",
 		"colorScheme": "One Half Dark",
 		"fontFace" : "Consolas",
-		"icon": "%USERPROFILE%\\Pictures\\raspberry.png",
+		"icon": "%USERPROFILE%\\Pictures\\fav-raspberry.png",
 		"backgroundImage": "%USERPROFILE%\\Pictures\\plumber.png",
 		"backgroundImageStretchMode": "none",
 		"backgroundImageAlignment": "bottomRight",
