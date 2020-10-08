@@ -65,6 +65,8 @@ Friends don't let friends use the git bash shell on windows. No judgement.
 	},
 ```
 
+If you want to be really fancy, you could look up [Powerline in PowerShell](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/powerline-in-powershell).
+
 ## Keybindings
 
 `❖` + `1` | when pinned to taskbar
