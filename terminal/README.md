@@ -17,7 +17,7 @@ like [One Half](https://github.com/sonph/onehalf) or [Solarized](https://github.
 
 Custom color schemes can also be defined in the schemes array of your [settings.json](https://aka.ms/terminal-documentation) file.
 
-Microsoft also offer some inspirations like [Frosted Glass](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/frosted-glass-theme)
+Microsoft also offers some theme inspirations like [Frosted Glass](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/frosted-glass-theme)
 and [Ubuntu Raspberry](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/raspberry-ubuntu).
 
 Another example would be the beautiful [Nord](https://www.nordtheme.com/) theme.
