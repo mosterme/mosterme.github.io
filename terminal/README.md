@@ -59,7 +59,7 @@ If you want to be really fancy, you could look up [Powerline in PowerShell](http
 	{
 		"guid": "{00000000-0000-0000-ba54-000000000001}",
 		"name": "Git Bash",
-		"commandline": "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
+		"commandline": "%PROGRAMFILES%\\git\\usr\\bin\\bash.exe -i -l",
 		"colorScheme": "Solarized Dark",
 		"fontFace": "Cascadia Code",
 		"icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
