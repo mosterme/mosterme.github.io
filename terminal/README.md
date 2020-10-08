@@ -10,48 +10,6 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 
 ![Windows Terminal](images/terminal-0.png)
 
-## Git Bash
-
-Friends don't let friends use the git bash shell on windows. No judgement.
-
-
-![Git Bash](images/terminal-1.png)
-
-```javascript
-	{
-		"guid": "{00000000-0000-0000-ba54-000000000001}",
-		"name": "Git Bash",
-		"commandline": "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
-		"colorScheme": "Solarized Dark",
-		"fontFace": "Cascadia Code",
-		"icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
-		"startingDirectory": "%USERPROFILE%",
-		"suppressApplicationTitle": true,
-	},
-```
-
-## SSH
-Windows 10 has a built-in SSH client that you can use in Windows Terminal.
-
-You can enter the ssh invocation directly into the "commandline" parameter.
-
-See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh) for more details.
-
-![SSH Session](images/terminal-2.png)
-
-```javascript
-	{
-		"guid": "{00000000-0000-0000-ba54-000000000002}",
-		"name": "Raspberry 3",
-		"commandline": "ssh pi@raspberry3.localdomain",
-		"colorScheme": "Raspberry",
-		"icon": "%USERPROFILE%\\Pictures\\Terminal\\raspberry-fav.png",
-		"backgroundImage": "%USERPROFILE%\\Pictures\\Terminal\\raspberry.png",
-		"backgroundImageStretchMode": "none",
-		"backgroundImageAlignment": "bottomRight",
-	},
-```
-
 ## Color schemes
 
 Windows Terminal already includes popular [color schemes](https://aka.ms/terminal-color-schemes)
@@ -85,6 +43,25 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 	},
 ```
 
+## Git Bash
+
+Friends don't let friends use the git bash shell on windows. No judgement.
+
+![Git Bash](images/terminal-1.png)
+
+```javascript
+	{
+		"guid": "{00000000-0000-0000-ba54-000000000001}",
+		"name": "Git Bash",
+		"commandline": "\"%PROGRAMFILES%\\git\\usr\\bin\\bash.exe\" -i -l",
+		"colorScheme": "Solarized Dark",
+		"fontFace": "Cascadia Code",
+		"icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
+		"startingDirectory": "%USERPROFILE%",
+		"suppressApplicationTitle": true,
+	},
+```
+
 ## Keybindings
 
 `❖` + `1` | when pinned to taskbar
@@ -98,6 +75,28 @@ For example the beautiful [Nord](https://www.nordtheme.com/) theme would look li
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
 `Ctrl` + `Shift` + `f` | open the search box
+
+## SSH
+Windows 10 has a built-in SSH client that you can use in Windows Terminal.
+
+You can enter the ssh invocation directly into the "commandline" parameter.
+
+See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh) for more details.
+
+![SSH Session](images/terminal-2.png)
+
+```javascript
+	{
+		"guid": "{00000000-0000-0000-ba54-000000000002}",
+		"name": "Raspberry 3",
+		"commandline": "ssh pi@raspberry3.localdomain",
+		"colorScheme": "Raspberry",
+		"icon": "%USERPROFILE%\\Pictures\\Terminal\\raspberry-fav.png",
+		"backgroundImage": "%USERPROFILE%\\Pictures\\Terminal\\raspberry.png",
+		"backgroundImageStretchMode": "none",
+		"backgroundImageAlignment": "bottomRight",
+	},
+```
 
 ## Links
 
