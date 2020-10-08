@@ -35,8 +35,6 @@ Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
 You can enter the ssh invocation directly into the "commandline" parameter.
 
-There is no need for [Cygwin](https://www.cygwin.com/) or [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) anymore.
-
 See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/tutorials/ssh) for more details.
 
 ![SSH Session](images/terminal-2.png)
