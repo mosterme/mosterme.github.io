@@ -50,6 +50,9 @@ Another example would be the beautiful [Nord](https://www.nordtheme.com/) theme.
 
 Friends don't let friends use the git bash shell on windows. No judgement.
 
+
+If you want to be really fancy, you could look up [Powerline in PowerShell](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/powerline-in-powershell).
+
 ![Git Bash](images/terminal-1.png)
 
 ```javascript
@@ -64,8 +67,6 @@ Friends don't let friends use the git bash shell on windows. No judgement.
 		"suppressApplicationTitle": true,
 	},
 ```
-
-If you want to be really fancy, you could look up [Powerline in PowerShell](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/powerline-in-powershell).
 
 ## Keybindings
 
