@@ -22,8 +22,4 @@ saxon -s:mediathek.xml -o:mediathek-sorted.xml -xsl:sort-mediathek-blacklist.xsl
     </Mediathek>
   </xsl:template>
 
-  <xsl:template match="*">
-    <xsl:copy><xsl:apply-templates/></xsl:copy>
-  </xsl:template>
-
 </xsl:stylesheet>
