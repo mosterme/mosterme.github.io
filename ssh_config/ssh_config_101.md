@@ -2,6 +2,8 @@
 
 ![Keine gute Idee](keine-gute-idee.png)
 
+&#160;
+
 ```
 alias ssh-devserver="ssh user@server-development.example.com"
 ```
@@ -12,6 +14,8 @@ alias ssh-devserver="ssh user@server-development.example.com"
  
  With SSH you can configure different options for each machine you connect to.
 
+&#160;
+
 # ~/.ssh/config
 ```
 Host prodserver
@@ -20,6 +24,8 @@ Host prodserver
 Host devserver
   Hostname server-development.example.com
 ```
+
+&#160;
 
 # ~/.ssh/config (continued)
 ```
@@ -39,6 +45,8 @@ Host server-development
   User armin
 ```
 
+&#160;
+
 # ssh-keygen
 ```
 ssh-keygen -t ed25519 -f ~/.ssh/armin.ed25519
@@ -55,12 +63,35 @@ ssh-keygen -t ed25519 -f ~/.ssh/armin.ed25519
 
 # ssh-copy-id
 ```
-ssh-copy-id -i ~/.ssh/armin.ed25519.pub prodserver
+ssh-copy-id -i ~/.ssh/armin.ed25519.pub server-prod
 ```
 
 <dl>
   <dt><br/>-i ~/.ssh/armin.ed25519<b>.pub</b></dt>
   <dd>The Identity File to copy to the host. Remember to <b>use the public key</b> !</dd>
-  <dt><br/>prodserver</dt>
+  <dt><br/>server-prod</dt>
   <dd>SSH destination [user@]host, in this case configured in the  <i>.ssh/config</i> .</dd>
 </dl>
+
+&#160;
+
+# Benefits
+* aliases for hostnames (even multiple)
+* additional parameters are still possible
+* directly assign username for the host
+* exchanged keys enable more features
+  + passwordless authentication
+  + remote tab-completion
+* the config is used for _everything_ ssh
+  + ssh-copy-id
+  + scp
+  + git
+
+&#160;
+
+# Links
+
+* Linuxize.com - [Using the SSH Config File](https://linuxize.com/post/using-the-ssh-config-file/)
+* Medium.com - [Upgrade Your SSH Key to Ed25519](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54)
+* Wikipedia - [Edwards-curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/EdDSA)
+* YouTube - GPN20 - Leyrer : [Besser leben mit SSH](https://youtu.be/qvdlLTyUJ5I)
