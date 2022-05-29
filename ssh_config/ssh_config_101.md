@@ -1,5 +1,7 @@
 # SSH Config 101
 
+![Keine gute Idee](keine-gute-idee.png)
+
 ```
 alias ssh-devserver="ssh user@server-development.example.com"
 ```
