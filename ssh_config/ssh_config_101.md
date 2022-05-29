@@ -2,7 +2,7 @@
 
 ![Keine gute Idee](keine-gute-idee.png)
 
-&#160;
+<div class="page"/>
 
 ```
 alias ssh-devserver="ssh user@server-development.example.com"
@@ -26,6 +26,7 @@ Host devserver
 ```
 
 &#160;
+<div class="page"/>
 
 # ~/.ssh/config (continued)
 ```
@@ -46,6 +47,7 @@ Host server-development
 ```
 
 &#160;
+<div class="page"/>
 
 # ssh-keygen
 ```
@@ -74,6 +76,7 @@ ssh-copy-id -i ~/.ssh/armin.ed25519.pub server-prod
 </dl>
 
 &#160;
+<div class="page"/>
 
 # Benefits
 * aliases for hostnames (even multiple)
