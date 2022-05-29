@@ -1,7 +1,7 @@
 # SSH Config 101
 
 ```
-alias ssh-devserver="ssh user@server-dev.example.com"
+alias ssh-devserver="ssh user@server-development.example.com"
 ```
 
 # This is not a good idea!
@@ -13,8 +13,18 @@ alias ssh-devserver="ssh user@server-dev.example.com"
 # ~/.ssh/config
 ```
 Host prodserver
-  Hostname server-prod.example.com
+  Hostname server-production.example.com
 
 Host devserver
-  Hostname server-dev.example.com
+  Hostname server-development.example.com
+```
+
+# ssh-keygen
+```
+ssh-keygen -t ed25519 -f ~/.ssh/armin.ed25519
+```
+
+# ssh-copy-id
+```
+ssh-copy-id -i ~/.ssh/armin.ed25519.pub prodserver
 ```
