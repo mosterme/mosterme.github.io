@@ -21,6 +21,24 @@ Host devserver
   Hostname server-development.example.com
 ```
 
+# ~/.ssh/config (continued)
+```
+Host server-prod
+  Hostname new-production-server.example.com
+  IdentityFile ~/.ssh/armin.ed25519
+  User armin
+
+Host server-qa server-staging server-test
+  Hostname new-test-server.example.com
+  IdentityFile ~/.ssh/armin.ed25519
+  User armin
+
+Host server-development
+  Hostname new-development-server.example.com
+  IdentityFile ~/.ssh/armin.ed25519
+  User armin
+```
+
 # ssh-keygen
 ```
 ssh-keygen -t ed25519 -f ~/.ssh/armin.ed25519
