@@ -10,6 +10,8 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 
 ![Windows Terminal](images/terminal-0.png)
 
+<div class="page"/>
+
 ## Color schemes
 
 Windows Terminal already includes popular [color schemes](https://aka.ms/terminal-color-schemes)
@@ -46,6 +48,8 @@ Another example would be the beautiful [Nord](https://www.nordtheme.com/) theme.
 	},
 ```
 
+<div class="page"/>
+
 ## Git Bash
 
 Friends don't let friends use the git bash shell on windows. No judgement.
@@ -68,8 +72,12 @@ If you want to be really fancy, you could look up [Powerline in PowerShell](http
 	},
 ```
 
+<div class="page"/>
+
 ## Keybindings
 
+key|function
+---|--------
 `❖` + `1` | when pinned to taskbar
 `Alt` + `Enter` or `F11` | toggle full screen
 `Ctrl` + `,` | open the settings
@@ -81,6 +89,8 @@ If you want to be really fancy, you could look up [Powerline in PowerShell](http
 `Ctrl` + `Tab` | switch to the next tab
 `Ctrl` + `Shift` + `Tab` | switch to the previous tab
 `Ctrl` + `Shift` + `f` | open the search box
+
+<div class="page"/>
 
 ## SSH
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
@@ -99,10 +109,10 @@ See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows
 		"colorScheme": "Raspberry",
 		"icon": "%USERPROFILE%\\Pictures\\Terminal\\raspberry-fav.png",
 		"backgroundImage": "%USERPROFILE%\\Pictures\\Terminal\\raspberry.png",
-		"backgroundImageStretchMode": "none",
-		"backgroundImageAlignment": "bottomRight",
 	},
 ```
+
+<div class="page"/>
 
 ## Links
 
