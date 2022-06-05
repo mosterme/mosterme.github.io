@@ -2,5 +2,5 @@
 <a href="./bullshit/">bullshit</a>,
 <a href="./hessen/">leaflet demo</a>,
 <a href="./timestamplet/">timestamplet</a>,
-<a href="./terminal/">windows terminal</a>
+<a href="./slides/terminal/windows-terminal.md">windows terminal</a>
 <a href="https://mosterme.github.io/">.</a>
