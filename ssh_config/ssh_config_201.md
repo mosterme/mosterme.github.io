@@ -18,7 +18,7 @@ advanced settings, catch-alls, defaults and wildcards
 
 # ssh-add
 ```
-ssh-add ~/.ssh/armin.ed25519
+ssh-add ~/.ssh/armin_ed25519
 ```
 
 ```
