@@ -3,4 +3,4 @@ alias ...='cd ../..'
 alias cd..='cd ..'
 alias md='mkdir -p'
 alias rd='rmdir'
-
+alias ll='ls -l'
