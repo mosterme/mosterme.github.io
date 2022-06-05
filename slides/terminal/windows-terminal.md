@@ -81,6 +81,7 @@ key|function
 ---|--------
 `❖` + `1` | when pinned to taskbar
 `Alt` + `Enter` or `F11` | toggle full screen
+`Alt` + `Click` profile | open the profile in a split pane
 `Ctrl` + `,` | open the settings
 `Ctrl` + `mouse wheel` | zoom with the mouse
 `Ctrl` + `=` or `Ctrl` + `-` | zoom with the keyboard
