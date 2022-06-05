@@ -75,6 +75,7 @@ If you want to be really fancy, you could look up [Powerline in PowerShell](http
 <div class="page"/>
 
 ## Keybindings
+Windows Terminal offers familiar standard keybindings.
 
 key|function
 ---|--------
