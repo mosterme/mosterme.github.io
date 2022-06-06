@@ -1,0 +1,1 @@
+var communities = {"14866558073673370369":{"icon":"14866558073673370352","name":"Community zu Splatoon™"}};

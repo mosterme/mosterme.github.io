@@ -1,0 +1,5 @@
+var posts2016 = [
+{"is_played":1,"subtype_class":"post-subtype-label-via-api","mii":"normal","pa":1,"community":"14866558073673370369","created_at":"29.06.2016 20:13","subtype":"Im Spiel","id":"AYMHAAACAAADV0aBefKkYg","empathy_count":"30"},
+{"is_played":1,"subtype_class":"post-subtype-label-diary","mii":"normal","body":"Pokémaster +32 ... das muss reichen! :-)","created_at":"20.02.2016 18:41","subtype":"Spieltagebücher","ss":1,"title":"14866558073673370352","id":"AYQHAAABAAAEVHhpShWNZg","empathy_count":"2"},
+{"is_played":1,"subtype_class":"post-subtype-label-diary","mii":"normal","aid":"6437256808884498088","body":"Hab gar keine Barbaren gesehen?! Waren wohl alle zu gut versteckt...  ;-)","created_at":"31.01.2016 14:44","subtype":"Spieltagebücher","ss":1,"title":"14866558073673370352","id":"AYQHAAABAACNUKFNsywJYg","empathy_count":"2"},
+]
