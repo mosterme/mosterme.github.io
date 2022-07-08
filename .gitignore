@@ -1,8 +1,5 @@
 _site/
 Thumbs.db
-slides/ssh_config/ssh_config_101.pdf
-slides/ssh_config/ssh_config_201.pdf
-slides/terminal/windows-terminal.pdf
-101010/troll.html
-101010/index.html
-101010/output.html
+misc/slides/ssh_config/ssh_config_101.pdf
+misc/slides/ssh_config/ssh_config_201.pdf
+misc/slides/terminal/windows-terminal.pdf
