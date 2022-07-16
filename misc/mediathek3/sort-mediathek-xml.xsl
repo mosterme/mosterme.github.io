@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!--
-saxon -s:mediathek.xml -o:mediathek-sorted.xml -xsl:sort-mediathek-blacklist.xsl
+saxon -s:mediathek.xml -o:mediathek-sorted.xml -xsl:sort-mediathek-xml.xsl
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
 
