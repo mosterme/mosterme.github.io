@@ -127,10 +127,7 @@ Windows Terminal will automatically create profiles for those distributions.
 		"source": "Windows.Terminal.Wsl",
 		"name": "Debian",
 		"icon": "%USERPROFILE%\\Pictures\\Terminal\\debian.ico",
-		"experimental.retroTerminalEffect": true,
-		"bellStyle": "window",
-		"opacity": 75,
-		"useAcrylic": true
+		"bellStyle": "window"
 	},
 ```
 
