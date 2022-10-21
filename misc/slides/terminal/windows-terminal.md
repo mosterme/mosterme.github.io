@@ -114,6 +114,28 @@ See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows
 
 <div class="page"/>
 
+## Windows Subsystem for Linux (WSL)
+If you have any [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/) distributions installed,
+
+Windows Terminal will automatically create profiles for those distributions.
+
+![WSL Debian](images/terminal-3.png)
+
+```javascript
+	{
+		"guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+		"source": "Windows.Terminal.Wsl",
+		"name": "Debian",
+		"icon": "%USERPROFILE%\\Pictures\\Terminal\\debian.ico",
+		"bellStyle": "window",
+		"experimental.retroTerminalEffect": true,
+		"opacity": 75,
+		"useAcrylic": true
+	},
+```
+
+<div class="page"/>
+
 ## Links
 
 ### YouTube
