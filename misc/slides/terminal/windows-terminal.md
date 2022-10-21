@@ -61,14 +61,13 @@ If you want to be really fancy, you could look up [Powerline in PowerShell](http
 
 ```javascript
 	{
-		"guid": "{00000000-0000-0000-ba54-000000000001}",
+		"guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
 		"name": "Git Bash",
-		"commandline": "%PROGRAMFILES%\\git\\usr\\bin\\bash.exe -i -l",
+		"source": "Git",
 		"colorScheme": "Solarized Dark",
 		"fontFace": "Cascadia Code",
-		"icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
 		"startingDirectory": "%USERPROFILE%",
-		"suppressApplicationTitle": true,
+		"suppressApplicationTitle": true
 	},
 ```
 
@@ -110,6 +109,28 @@ See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows
 		"commandline": "ssh pi@raspberry3.localdomain",
 		"colorScheme": "Raspberry",
 		"icon": "%USERPROFILE%\\Pictures\\Terminal\\raspberry-fav.png"
+	},
+```
+
+<div class="page"/>
+
+## Windows Subsystem for Linux (WSL)
+If you have any [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/) distributions installed,
+
+Windows Terminal will automatically create profiles for those distributions.
+
+![WSL Debian](images/terminal-3.png)
+
+```javascript
+	{
+		"guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+		"source": "Windows.Terminal.Wsl",
+		"name": "Debian",
+		"icon": "%USERPROFILE%\\Pictures\\Terminal\\debian.ico",
+		"experimental.retroTerminalEffect": true,
+		"bellStyle": "window",
+		"opacity": 75,
+		"useAcrylic": true
 	},
 ```
 
