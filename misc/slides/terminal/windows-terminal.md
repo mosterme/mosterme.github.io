@@ -109,8 +109,7 @@ See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows
 		"name": "Raspberry 3",
 		"commandline": "ssh pi@raspberry3.localdomain",
 		"colorScheme": "Raspberry",
-		"icon": "%USERPROFILE%\\Pictures\\Terminal\\raspberry-fav.png",
-		"backgroundImage": "%USERPROFILE%\\Pictures\\Terminal\\raspberry.png",
+		"icon": "%USERPROFILE%\\Pictures\\Terminal\\raspberry-fav.png"
 	},
 ```
 
