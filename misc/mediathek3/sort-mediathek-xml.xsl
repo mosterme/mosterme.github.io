@@ -15,7 +15,7 @@ saxon -s:mediathek.xml -o:mediathek-sorted.xml -xsl:sort-mediathek-xml.xsl
     <xsl:text>&#10;</xsl:text>
     <xsl:for-each select="Blacklist">
       <xsl:sort select="black-thema"/>
-      <Blacklist><black-thema><xsl:value-of select="black-thema"/></black-thema></Blacklist>
+      <Blacklist><xsl:if test="//black-nr"><black-nr><xsl:value-of select="position()-1"/></black-nr></xsl:if><black-thema><xsl:value-of select="black-thema"/></black-thema></Blacklist>
       <xsl:text>&#10;</xsl:text>
     </xsl:for-each>
     <xsl:text>&#10;</xsl:text>
