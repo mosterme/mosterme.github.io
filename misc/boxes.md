@@ -1,13 +1,13 @@
 # Text boxes
 
-## ASCII
+## Ascii
 ```
 +-------+
 | ascii |
 +-------+
 ```
 
-## Rounded
+## Round
 ```
 ╭───────╮
 │ round │
