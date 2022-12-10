@@ -29,5 +29,5 @@
 ```
 
 ## Links
-* [boxes](https://boxes.thomasjensen.com/)
+* [boxes](https://github.com/ascii-boxes/boxes/)
 * [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay)
