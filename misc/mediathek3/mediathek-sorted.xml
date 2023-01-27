@@ -76,12 +76,14 @@
 <Blacklist><black-thema>Alles Klara</black-thema></Blacklist>
 <Blacklist><black-thema>Amadeus Austrian Music Award 2022</black-thema></Blacklist>
 <Blacklist><black-thema>Anne Will</black-thema></Blacklist>
+<Blacklist><black-thema>Antenne</black-thema></Blacklist>
 <Blacklist><black-thema>Archivperlen</black-thema></Blacklist>
 <Blacklist><black-thema>Arthur und die Freunde der Tafelrunde</black-thema></Blacklist>
 <Blacklist><black-thema>Austrian Football League 2022</black-thema></Blacklist>
 <Blacklist><black-thema>Austrian World Summit</black-thema></Blacklist>
 <Blacklist><black-thema>BR Retro</black-thema></Blacklist>
 <Blacklist><black-thema>BR24</black-thema></Blacklist>
+<Blacklist><black-thema>BR24 Rundschau</black-thema></Blacklist>
 <Blacklist><black-thema>BR24 Sport im BR Fernsehen</black-thema></Blacklist>
 <Blacklist><black-thema>BR24 extra</black-thema></Blacklist>
 <Blacklist><black-thema>BR24Sport</black-thema></Blacklist>
@@ -159,6 +161,7 @@
 <Blacklist><black-thema>Die Quiz-Helden</black-thema></Blacklist>
 <Blacklist><black-thema>Die Ratgeber</black-thema></Blacklist>
 <Blacklist><black-thema>Die Regeln von Floor</black-thema></Blacklist>
+<Blacklist><black-thema>Die Rosenheim-Cops</black-thema></Blacklist>
 <Blacklist><black-thema>Die Schlümpfe</black-thema></Blacklist>
 <Blacklist><black-thema>Die Sportmacher</black-thema></Blacklist>
 <Blacklist><black-thema>Die Tafelrunde</black-thema></Blacklist>
@@ -244,6 +247,7 @@
 <Blacklist><black-thema>H2O - Abenteuer Meerjungfrau</black-thema></Blacklist>
 <Blacklist><black-thema>H2O - Plötzlich Meerjungfrau</black-thema></Blacklist>
 <Blacklist><black-thema>Hallo Niedersachsen</black-thema></Blacklist>
+<Blacklist><black-thema>Hallo SRF!</black-thema></Blacklist>
 <Blacklist><black-thema>Hallo okidoki</black-thema></Blacklist>
 <Blacklist><black-thema>Hamburg Journal</black-thema></Blacklist>
 <Blacklist><black-thema>Hamburg Journal 18.00</black-thema></Blacklist>
@@ -379,6 +383,7 @@
 <Blacklist><black-thema>Oberösterreich heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Orientierung</black-thema></Blacklist>
 <Blacklist><black-thema>PK</black-thema></Blacklist>
+<Blacklist><black-thema>Panda, Gorilla &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Panorama</black-thema></Blacklist>
 <Blacklist><black-thema>Panorama 3</black-thema></Blacklist>
 <Blacklist><black-thema>Passt, wackelt und hat Luft</black-thema></Blacklist>
@@ -419,8 +424,11 @@
 <Blacklist><black-thema>Robin Hood</black-thema></Blacklist>
 <Blacklist><black-thema>Rote Rosen</black-thema></Blacklist>
 <Blacklist><black-thema>Rudis Rasselbande</black-thema></Blacklist>
+<Blacklist><black-thema>Rundschau</black-thema></Blacklist>
 <Blacklist><black-thema>Rundschau Magazin</black-thema></Blacklist>
+<Blacklist><black-thema>Rundschau Nacht</black-thema></Blacklist>
 <Blacklist><black-thema>Rundschau in Gebärdensprache</black-thema></Blacklist>
+<Blacklist><black-thema>Rundschau talk</black-thema></Blacklist>
 <Blacklist><black-thema>Rundschau-Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>SAG’S MULTI!</black-thema></Blacklist>
 <Blacklist><black-thema>SMS - Schwanke meets Science</black-thema></Blacklist>
@@ -547,6 +555,7 @@
 <Blacklist><black-thema>Traumhäuser</black-thema></Blacklist>
 <Blacklist><black-thema>Täter - Opfer - Polizei</black-thema></Blacklist>
 <Blacklist><black-thema>U21-EM-Qualifikation</black-thema></Blacklist>
+<Blacklist><black-thema>UEFA Champions League</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA EURO 2020</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Europa League und Conference League Halbfinale</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Nations League</black-thema></Blacklist>
@@ -613,7 +622,9 @@
 <Blacklist><black-thema>Wir in Bayern</black-thema></Blacklist>
 <Blacklist><black-thema>Wirtshausmusikanten</black-thema></Blacklist>
 <Blacklist><black-thema>Wissen vor 8 - Werkstatt</black-thema></Blacklist>
+<Blacklist><black-thema>Wissper</black-thema></Blacklist>
 <Blacklist><black-thema>Wort zum Sonntag</black-thema></Blacklist>
+<Blacklist><black-thema>Wuffel, der Wunderhund</black-thema></Blacklist>
 <Blacklist><black-thema>Yakari</black-thema></Blacklist>
 <Blacklist><black-thema>Yoga Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>ZDF Magazin Royale</black-thema></Blacklist>
@@ -621,6 +632,7 @@
 <Blacklist><black-thema>ZDF SPORTreportage</black-thema></Blacklist>
 <Blacklist><black-thema>ZDF heute</black-thema></Blacklist>
 <Blacklist><black-thema>ZDF spezial</black-thema></Blacklist>
+<Blacklist><black-thema>ZDF-Fernsehgarten</black-thema></Blacklist>
 <Blacklist><black-thema>ZDF-Mittagsmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>ZDF-Morgenmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>ZDFheute live</black-thema></Blacklist>
@@ -645,9 +657,13 @@
 <Blacklist><black-thema>ZIB Spezial: Zur Nachfolge des steirischen Landeshauptmanns Hermann Schützenhöfer</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Zack Mini</black-thema></Blacklist>
 <Blacklist><black-thema>Zacki und die Zoobande</black-thema></Blacklist>
+<Blacklist><black-thema>Zamborium</black-thema></Blacklist>
+<Blacklist><black-thema>Zambox</black-thema></Blacklist>
+<Blacklist><black-thema>Zebra</black-thema></Blacklist>
 <Blacklist><black-thema>Zeiglers wunderbare Welt des Fußballs</black-thema></Blacklist>
 <Blacklist><black-thema>Zeit im Bild</black-thema></Blacklist>
 <Blacklist><black-thema>Zeit im Bild (ÖGS)</black-thema></Blacklist>
+<Blacklist><black-thema>Zeitspiegel</black-thema></Blacklist>
 <Blacklist><black-thema>Zoobabies</black-thema></Blacklist>
 <Blacklist><black-thema>Zoogeschichten</black-thema></Blacklist>
 <Blacklist><black-thema>Zoom - Der weiße Delfin</black-thema></Blacklist>
@@ -655,6 +671,7 @@
 <Blacklist><black-thema>Zur Sache Baden-Württemberg</black-thema></Blacklist>
 <Blacklist><black-thema>Zur Sache Rheinland-Pfalz</black-thema></Blacklist>
 <Blacklist><black-thema>Zwei Münchner in Hamburg</black-thema></Blacklist>
+<Blacklist><black-thema>Zwei am Morge</black-thema></Blacklist>
 <Blacklist><black-thema>Zwischen Spessart und Karwendel</black-thema></Blacklist>
 <Blacklist><black-thema>aktiv und gesund</black-thema></Blacklist>
 <Blacklist><black-thema>aktuell</black-thema></Blacklist>
