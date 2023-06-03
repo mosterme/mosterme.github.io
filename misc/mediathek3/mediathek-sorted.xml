@@ -105,9 +105,11 @@
 <Blacklist><black-thema>Berlin - Schicksalsjahre einer Stadt</black-thema></Blacklist>
 <Blacklist><black-thema>Berlin direkt</black-thema></Blacklist>
 <Blacklist><black-thema>Bewusst gesund - Das Magazin</black-thema></Blacklist>
+<Blacklist><black-thema>Bianca - Wege zum Glück</black-thema></Blacklist>
 <Blacklist><black-thema>Bianca – Wege zum Glück</black-thema></Blacklist>
 <Blacklist><black-thema>Bibi Blocksberg</black-thema></Blacklist>
 <Blacklist><black-thema>Bilder allein zuhaus</black-thema></Blacklist>
+<Blacklist><black-thema>Bingo! - Die Umweltlotterie</black-thema></Blacklist>
 <Blacklist><black-thema>Blickpunkt Sport</black-thema></Blacklist>
 <Blacklist><black-thema>Bobby &amp; Bill</black-thema></Blacklist>
 <Blacklist><black-thema>Brandenburg aktuell</black-thema></Blacklist>
@@ -137,9 +139,11 @@
 <Blacklist><black-thema>Das Erbe der Guldenburgs</black-thema></Blacklist>
 <Blacklist><black-thema>Das Literaturmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Das Monatsmagazin</black-thema></Blacklist>
+<Blacklist><black-thema>Das Traumschiff</black-thema></Blacklist>
 <Blacklist><black-thema>Das aktuelle bonus-Quiz</black-thema></Blacklist>
 <Blacklist><black-thema>Data Science vs. Fake</black-thema></Blacklist>
 <Blacklist><black-thema>Der Bergdoktor</black-thema></Blacklist>
+<Blacklist><black-thema>Der Landarzt</black-thema></Blacklist>
 <Blacklist><black-thema>Der Nationalfeiertag - Kranzniederlegung, Angelobung, Sonderministerrat</black-thema></Blacklist>
 <Blacklist><black-thema>Der Tag</black-thema></Blacklist>
 <Blacklist><black-thema>Der kleine Rabe Socke</black-thema></Blacklist>
@@ -163,6 +167,7 @@
 <Blacklist><black-thema>Die Regeln von Floor</black-thema></Blacklist>
 <Blacklist><black-thema>Die Rosenheim-Cops</black-thema></Blacklist>
 <Blacklist><black-thema>Die Schlümpfe</black-thema></Blacklist>
+<Blacklist><black-thema>Die Schwarzwaldklinik</black-thema></Blacklist>
 <Blacklist><black-thema>Die Sportmacher</black-thema></Blacklist>
 <Blacklist><black-thema>Die Tafelrunde</black-thema></Blacklist>
 <Blacklist><black-thema>Die Wicherts von nebenan</black-thema></Blacklist>
@@ -175,14 +180,22 @@
 <Blacklist><black-thema>Eco</black-thema></Blacklist>
 <Blacklist><black-thema>Edgar, das Super-Karibu</black-thema></Blacklist>
 <Blacklist><black-thema>Ein Fall für die Erdmännchen</black-thema></Blacklist>
+<Blacklist><black-thema>Ein Fall für zwei - Die Klassiker</black-thema></Blacklist>
 <Blacklist><black-thema>Eine Möhre für Zwei</black-thema></Blacklist>
 <Blacklist><black-thema>Eine lausige Hexe</black-thema></Blacklist>
 <Blacklist><black-thema>Einfach genial</black-thema></Blacklist>
 <Blacklist><black-thema>Eisbär, Affe &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Eishockey Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Eishockey Weltmeisterschaft 2022</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey – Highlights</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey – Inside</black-thema></Blacklist>
 <Blacklist><black-thema>Eishockey-Länderspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Eishockey-WM 2022</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey-WM 2023</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey-WM 2023 Tampere</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey-WM 2023 Viertelfinale</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey-WM Highlights</black-thema></Blacklist>
+<Blacklist><black-thema>Eishockey-WM-Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Eishockey-WM-Viertelfinale</black-thema></Blacklist>
 <Blacklist><black-thema>Elefant, Tiger &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Elizabeth II.</black-thema></Blacklist>
@@ -219,6 +232,8 @@
 <Blacklist><black-thema>Fußball</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball 2. Liga</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball 2.Liga</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball EM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball Europa League</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball Europa League und Conference League Halbfinale Hinspiel</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball Frauen Bundesliga</black-thema></Blacklist>
@@ -252,9 +267,12 @@
 <Blacklist><black-thema>Hamburg Journal</black-thema></Blacklist>
 <Blacklist><black-thema>Hamburg Journal 18.00</black-thema></Blacklist>
 <Blacklist><black-thema>Handball</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Damen WHA Finale Spiel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Herren HLA Halbfinale 1. Spiel</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA-Finale 2</black-thema></Blacklist>
+<Blacklist><black-thema>Handball-EM</black-thema></Blacklist>
 <Blacklist><black-thema>Hart aber fair</black-thema></Blacklist>
 <Blacklist><black-thema>Hauptsache gesund</black-thema></Blacklist>
 <Blacklist><black-thema>Heimspiel - Europa am Ball</black-thema></Blacklist>
@@ -379,6 +397,7 @@
 <Blacklist><black-thema>Nordtour</black-thema></Blacklist>
 <Blacklist><black-thema>Notruf Hafenkante</black-thema></Blacklist>
 <Blacklist><black-thema>ORF III AKTUELL</black-thema></Blacklist>
+<Blacklist><black-thema>ORF III AKTUELL am Abend</black-thema></Blacklist>
 <Blacklist><black-thema>Oberösterreich heute</black-thema></Blacklist>
 <Blacklist><black-thema>Oberösterreich heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Orientierung</black-thema></Blacklist>
@@ -417,8 +436,10 @@
 <Blacklist><black-thema>Quizduell</black-thema></Blacklist>
 <Blacklist><black-thema>REPORT MAINZ</black-thema></Blacklist>
 <Blacklist><black-thema>RESPEKT</black-thema></Blacklist>
+<Blacklist><black-thema>Radio Bremen Retro – Filme aus dem Archiv</black-thema></Blacklist>
 <Blacklist><black-thema>Rentnercops</black-thema></Blacklist>
 <Blacklist><black-thema>Report</black-thema></Blacklist>
+<Blacklist><black-thema>Retro</black-thema></Blacklist>
 <Blacklist><black-thema>Ritter Rost</black-thema></Blacklist>
 <Blacklist><black-thema>Riverboat</black-thema></Blacklist>
 <Blacklist><black-thema>Robin Hood</black-thema></Blacklist>
@@ -444,6 +465,9 @@
 <Blacklist><black-thema>SOKO Wismar</black-thema></Blacklist>
 <Blacklist><black-thema>SPORTreportage</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Abendschau</black-thema></Blacklist>
+<Blacklist><black-thema>SR Retro - Das Saarland damals</black-thema></Blacklist>
+<Blacklist><black-thema>SR Retro - Hüben und Drüben</black-thema></Blacklist>
+<Blacklist><black-thema>SR Retro - Im Dreieck</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Westmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>SRF Retro Quiz</black-thema></Blacklist>
 <Blacklist><black-thema>STUDIO 3 - Live aus Babelsberg</black-thema></Blacklist>
@@ -454,7 +478,14 @@
 <Blacklist><black-thema>SWR Aktuell Rheinland-Pfalz</black-thema></Blacklist>
 <Blacklist><black-thema>SWR Extra</black-thema></Blacklist>
 <Blacklist><black-thema>SWR Retro - Abendschau</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro - Der Markt</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro - Der Südwesten damals</black-thema></Blacklist>
 <Blacklist><black-thema>SWR Retro - Sport im Südwesten/Sport am Wochenende</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro – Abendschau</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro – Report Chronik</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro – Sport im Südwesten/Sport am Wochenende</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro – Von Rhein, Main und Neckar</black-thema></Blacklist>
+<Blacklist><black-thema>SWR Retro – Zeichen der Zeit</black-thema></Blacklist>
 <Blacklist><black-thema>SWR Sport</black-thema></Blacklist>
 <Blacklist><black-thema>SWR Sport Extra</black-thema></Blacklist>
 <Blacklist><black-thema>SWR Sport Fußball</black-thema></Blacklist>
@@ -508,6 +539,7 @@
 <Blacklist><black-thema>Sportheute</black-thema></Blacklist>
 <Blacklist><black-thema>Sportpanorama</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Sportsendungen</black-thema></Blacklist>
 <Blacklist><black-thema>Spät-ZIB</black-thema></Blacklist>
 <Blacklist><black-thema>St. Moritz aktuell</black-thema></Blacklist>
@@ -552,6 +584,7 @@
 <Blacklist><black-thema>Tirol heute</black-thema></Blacklist>
 <Blacklist><black-thema>Tirol heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Tischtennis Herren Bundesliga-Finale</black-thema></Blacklist>
 <Blacklist><black-thema>Traumhäuser</black-thema></Blacklist>
 <Blacklist><black-thema>Täter - Opfer - Polizei</black-thema></Blacklist>
 <Blacklist><black-thema>U21-EM-Qualifikation</black-thema></Blacklist>
@@ -686,6 +719,7 @@
 <Blacklist><black-thema>alle wetter!</black-thema></Blacklist>
 <Blacklist><black-thema>alles wissen</black-thema></Blacklist>
 <Blacklist><black-thema>alpha Uni</black-thema></Blacklist>
+<Blacklist><black-thema>alpha-retro</black-thema></Blacklist>
 <Blacklist><black-thema>alwaysxcaro</black-thema></Blacklist>
 <Blacklist><black-thema>artour</black-thema></Blacklist>
 <Blacklist><black-thema>auslandsjournal</black-thema></Blacklist>
@@ -711,6 +745,7 @@
 <Blacklist><black-thema>extra 3 Spezial: Der reale Irrsinn</black-thema></Blacklist>
 <Blacklist><black-thema>frontal</black-thema></Blacklist>
 <Blacklist><black-thema>hallo deutschland</black-thema></Blacklist>
+<Blacklist><black-thema>hallo hessen</black-thema></Blacklist>
 <Blacklist><black-thema>hessen extra</black-thema></Blacklist>
 <Blacklist><black-thema>hessenquiz</black-thema></Blacklist>
 <Blacklist><black-thema>hessenreporter</black-thema></Blacklist>
@@ -727,12 +762,15 @@
 <Blacklist><black-thema>heute und hier</black-thema></Blacklist>
 <Blacklist><black-thema>heute-journal</black-thema></Blacklist>
 <Blacklist><black-thema>hr Retro | Abendschau</black-thema></Blacklist>
+<Blacklist><black-thema>hr Retro | Archivschätze</black-thema></Blacklist>
+<Blacklist><black-thema>hr Retro | Der Markt</black-thema></Blacklist>
 <Blacklist><black-thema>hr Retro | hessenschau</black-thema></Blacklist>
 <Blacklist><black-thema>kino aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>kinokino</black-thema></Blacklist>
 <Blacklist><black-thema>konkret</black-thema></Blacklist>
 <Blacklist><black-thema>konkret (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>kulturMontag</black-thema></Blacklist>
+<Blacklist><black-thema>kurz vor 5</black-thema></Blacklist>
 <Blacklist><black-thema>lesenswert</black-thema></Blacklist>
 <Blacklist><black-thema>logo!</black-thema></Blacklist>
 <Blacklist><black-thema>maintower</black-thema></Blacklist>
@@ -756,7 +794,10 @@
 <Blacklist><black-thema>rbb Kultur</black-thema></Blacklist>
 <Blacklist><black-thema>rbb PRAXIS</black-thema></Blacklist>
 <Blacklist><black-thema>rbb Retro - Aktuelles Magazin</black-thema></Blacklist>
+<Blacklist><black-thema>rbb Retro - Berichte, Dokus, Reportagen</black-thema></Blacklist>
+<Blacklist><black-thema>rbb Retro - Berlin stellt vor</black-thema></Blacklist>
 <Blacklist><black-thema>rbb Retro - Berliner Abendschau</black-thema></Blacklist>
+<Blacklist><black-thema>rbb Retro - Das Profil</black-thema></Blacklist>
 <Blacklist><black-thema>rbb SPORT</black-thema></Blacklist>
 <Blacklist><black-thema>rbb UM6</black-thema></Blacklist>
 <Blacklist><black-thema>rbb wissenszeit</black-thema></Blacklist>
@@ -843,7 +884,7 @@
 	<pfad-ffmpeg>bin\ffmpeg.exe</pfad-ffmpeg>
 	<pfad-vlc>C:\Program Files\VideoLAN\VLC\vlc.exe</pfad-vlc>
 	<Player-zum-Abspielen/>
-	<Programm-Linux-Shutdown/>
+	<Programm-Linux-Shutdown>shutdown -h now</Programm-Linux-Shutdown>
 	<Programm-Url-oeffnen/>
 	<system-import-url-manuell/>
 	<system-tab-abo-icon-anzeigen>true</system-tab-abo-icon-anzeigen>
