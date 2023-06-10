@@ -142,9 +142,9 @@ You can also manually edit your [.gitconfig](https://git-scm.com/book/en/v2/Gett
 # Links
 
 * [SSH Config 101 - aliases, host configuration, key creation and exchange](https://mosterme.github.io/misc/slides/ssh_config/ssh_config_101.html)
-* [Why SSH security practices need to change](https://blog.1password.com/ssh-security-practices-changing/) | [1Password Blog](https://blog.1password.com/)
-* [1Password for SSH changed the way I work](https://blog.1password.com/1password-ssh-changed-how-i-work/) | [1Password Blog](https://blog.1password.com/)
-* [1Password SSH Agent](https://developer.1password.com/docs/ssh/agent)  | [1Password Developer Documentation](https://developer.1password.com/)
-* [1Password for SSH & Git](https://developer.1password.com/docs/ssh/) | [1Password Developer Documentation](https://developer.1password.com/)
-* [SSH and Git, meet 1Password](https://blog.1password.com/1password-ssh-agent/) | [1Password Blog](https://blog.1password.com/)
+* [Why SSH security practices need to change](https://blog.1password.com/ssh-security-practices-changing/) - [1Password Blog](https://blog.1password.com/)
+* [1Password for SSH changed the way I work](https://blog.1password.com/1password-ssh-changed-how-i-work/) - [1Password Blog](https://blog.1password.com/)
+* [1Password SSH Agent](https://developer.1password.com/docs/ssh/agent) - [1Password Developer Documentation](https://developer.1password.com/)
+* [1Password for SSH & Git](https://developer.1password.com/docs/ssh/) - [1Password Developer Documentation](https://developer.1password.com/)
+* [SSH and Git, meet 1Password](https://blog.1password.com/1password-ssh-agent/) - [1Password Blog](https://blog.1password.com/)
 * YouTube - GPN21 - Leyrer : [Noch besser leben mit SSH](https://www.youtube.com/watch?v=encBJyIO70w)
