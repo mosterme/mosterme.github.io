@@ -4,11 +4,11 @@
 
 <div class="page"/>
 
-```
-alias ssh-devserver="ssh server-development.example.com"
-```
-
 # This is not a good idea!
+
+```
+alias ssh-test="ssh test-server.example.com"
+```
 
  There is another, much better, and more straightforward solution to this problem. 
  
@@ -18,11 +18,17 @@ alias ssh-devserver="ssh server-development.example.com"
 
 # ~/.ssh/config
 ```
-Host prodserver
-  Hostname server-production.example.com
+Host test
+  Hostname test-server.example.com
 
-Host devserver
-  Hostname server-development.example.com
+Host prod
+  Hostname prod-server.example.com
+```
+
+&#160;
+
+```
+$ ssh test
 ```
 
 &#160;
@@ -30,20 +36,20 @@ Host devserver
 
 # ~/.ssh/config (continued)
 ```
-Host server-production
-  Hostname new-production-server.example.com
-  IdentityFile ~/.ssh/armin_ed25519
-  User armin
+Host dev test
+  Hostname test-server.example.com
+  IdentityFile ~/.ssh/admin_ed25519
+  User admin
 
-Host server-preview server-qa server-test
-  Hostname new-test-server.example.com
-  IdentityFile ~/.ssh/armin_ed25519
-  User armin
+Host preview stage qa
+  Hostname stage-server.example.com
+  IdentityFile ~/.ssh/admin_ed25519
+  User admin
 
-Host server-development
-  Hostname new-development-server.example.com
-  IdentityFile ~/.ssh/armin_ed25519
-  User armin
+Host prod production
+  Hostname prod-server.example.com
+  IdentityFile ~/.ssh/admin_ed25519
+  User admin
 ```
 
 &#160;
@@ -51,13 +57,13 @@ Host server-development
 
 # ssh-keygen
 ```
-ssh-keygen -t ed25519 -f ~/.ssh/armin_ed25519
+ssh-keygen -t ed25519 -f ~/.ssh/admin_ed25519
 ```
 
 <dl>
   <dt><br/>-t ed25519</dt>
   <dd>Type of the key. Ed25519 is the most recommended public-key algorithm today.</dd>
-  <dt><br/>-f ~/.ssh/armin_ed25519</dt>
+  <dt><br/>-f ~/.ssh/admin_ed25519</dt>
   <dd>Filename for the keys. Should probably be stored in your default ~/.ssh directory.</dd>
 </dl>
 
@@ -65,13 +71,13 @@ ssh-keygen -t ed25519 -f ~/.ssh/armin_ed25519
 
 # ssh-copy-id
 ```
-ssh-copy-id -i ~/.ssh/armin_ed25519.pub server-prodproduction
+ssh-copy-id -i ~/.ssh/admin_ed25519.pub prod
 ```
 
 <dl>
-  <dt><br/>-i ~/.ssh/armin_ed25519<b>.pub</b></dt>
+  <dt><br/>-i ~/.ssh/admin_ed25519<b>.pub</b></dt>
   <dd>The Identity File to copy to the host. Remember to <b>use the public key</b> !</dd>
-  <dt><br/>server-production</dt>
+  <dt><br/>prod</dt>
   <dd>SSH destination [user@]host, in this case configured in the  <i>.ssh/config</i> .</dd>
 </dl>
 
