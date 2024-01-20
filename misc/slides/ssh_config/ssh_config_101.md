@@ -8,6 +8,7 @@
 
 ```
 alias ssh-test="ssh test-server.example.com"
+alias ssh-prod="ssh prod-server.example.com"
 ```
 
  There is another, much better, and more straightforward solution to this problem. 
@@ -38,13 +39,13 @@ $ ssh test
 ```
 Host dev test
   Hostname test-server.example.com
-  IdentityFile ~/.ssh/admin_ed25519
-  User admin
+  IdentityFile ~/.ssh/devop_ed25519
+  User devop
 
 Host preview stage qa
   Hostname stage-server.example.com
-  IdentityFile ~/.ssh/admin_ed25519
-  User admin
+  IdentityFile ~/.ssh/devop_ed25519
+  User devop
 
 Host prod production
   Hostname prod-server.example.com

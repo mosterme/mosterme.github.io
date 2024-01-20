@@ -4,6 +4,7 @@
 <!-- Alphabetically sorted Blacklist -->
 <Blacklist><black-thema>#BR24 Zeitreise</black-thema></Blacklist>
 <Blacklist><black-thema>#BR24Zeitreise</black-thema></Blacklist>
+<Blacklist><black-thema>#Challenge1923 · 3 Menschen. 6 Songs.</black-thema></Blacklist>
 <Blacklist><black-thema>#EinMomentDerBleibt</black-thema></Blacklist>
 <Blacklist><black-thema>#MeinWunschAnBayern</black-thema></Blacklist>
 <Blacklist><black-thema>#Move2</black-thema></Blacklist>
@@ -12,11 +13,13 @@
 <Blacklist><black-thema>#SRFglobal (Video)</black-thema></Blacklist>
 <Blacklist><black-thema>#SRFglobal mit gesprochenen Untertiteln</black-thema></Blacklist>
 <Blacklist><black-thema>#WIR - Freundschaft grenzenlos</black-thema></Blacklist>
+<Blacklist><black-thema>#Zusammenspielen - Freie Musiker*innen bei SWR2</black-thema></Blacklist>
 <Blacklist><black-thema>#deinklimaprojekt</black-thema></Blacklist>
 <Blacklist><black-thema>#hinreisend</black-thema></Blacklist>
 <Blacklist><black-thema>#lookslike</black-thema></Blacklist>
 <Blacklist><black-thema>#rosenfeld/feldenkirchen</black-thema></Blacklist>
 <Blacklist><black-thema>#srfzämedure</black-thema></Blacklist>
+<Blacklist><black-thema>#unterAlmans – migrantische Geschichte(n)</black-thema></Blacklist>
 <Blacklist><black-thema>$AFE</black-thema></Blacklist>
 <Blacklist><black-thema>1 gegen 100</black-thema></Blacklist>
 <Blacklist><black-thema>1, 2 oder 3</black-thema></Blacklist>
@@ -109,6 +112,9 @@
 <Blacklist><black-thema>Bewusst gesund - Das Magazin (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>Bianca - Wege zum Glück</black-thema></Blacklist>
 <Blacklist><black-thema>Bianca – Wege zum Glück</black-thema></Blacklist>
+<Blacklist><black-thema>Biathlon Weltcup Ruhpolding</black-thema></Blacklist>
+<Blacklist><black-thema>Biathlon-Weltcup</black-thema></Blacklist>
+<Blacklist><black-thema>Biathlon-Weltcup der Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Bibi Blocksberg</black-thema></Blacklist>
 <Blacklist><black-thema>Bilder allein zuhaus</black-thema></Blacklist>
 <Blacklist><black-thema>Bilder aus Südtirol</black-thema></Blacklist>
@@ -137,8 +143,10 @@
 <Blacklist><black-thema>Checker Tobi</black-thema></Blacklist>
 <Blacklist><black-thema>Conference League Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Coronavirus-Update NDR Info</black-thema></Blacklist>
+<Blacklist><black-thema>DFB-Pokal</black-thema></Blacklist>
 <Blacklist><black-thema>DRS Aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>Dahoam is Dahoam</black-thema></Blacklist>
+<Blacklist><black-thema>Das Adventsfest der 100.000 Lichter</black-thema></Blacklist>
 <Blacklist><black-thema>Das Dschungelbuch</black-thema></Blacklist>
 <Blacklist><black-thema>Das Erbe der Guldenburgs</black-thema></Blacklist>
 <Blacklist><black-thema>Das Literaturmagazin</black-thema></Blacklist>
@@ -153,6 +161,7 @@
 <Blacklist><black-thema>Der kleine Rabe Socke</black-thema></Blacklist>
 <Blacklist><black-thema>Die Abenteuer des jungen Marco Polo</black-thema></Blacklist>
 <Blacklist><black-thema>Die Bergretter</black-thema></Blacklist>
+<Blacklist><black-thema>Die Bewegungs-Docs</black-thema></Blacklist>
 <Blacklist><black-thema>Die Fallers</black-thema></Blacklist>
 <Blacklist><black-thema>Die Gartenparty der Stars</black-thema></Blacklist>
 <Blacklist><black-thema>Die Haustiere</black-thema></Blacklist>
@@ -280,16 +289,22 @@
 <Blacklist><black-thema>Hallo okidoki</black-thema></Blacklist>
 <Blacklist><black-thema>Hamburg Journal</black-thema></Blacklist>
 <Blacklist><black-thema>Hamburg Journal 18.00</black-thema></Blacklist>
+<Blacklist><black-thema>Hamburg Journal 18:00 Uhr</black-thema></Blacklist>
 <Blacklist><black-thema>Handball</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Damen WHA Finale Spiel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Herren EM</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA Halbfinale 1. Spiel</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA-Finale 2</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Herren-EM 2024</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-EM</black-thema></Blacklist>
+<Blacklist><black-thema>Handball-EM 2024 Herren</black-thema></Blacklist>
+<Blacklist><black-thema>Handball-WM der Frauen</black-thema></Blacklist>
 <Blacklist><black-thema>Hart aber fair</black-thema></Blacklist>
 <Blacklist><black-thema>Hauptsache gesund</black-thema></Blacklist>
 <Blacklist><black-thema>Heimspiel - Europa am Ball</black-thema></Blacklist>
+<Blacklist><black-thema>Hermann Maier's Star Challenge 2024</black-thema></Blacklist>
 <Blacklist><black-thema>Hessen à la carte</black-thema></Blacklist>
 <Blacklist><black-thema>Heute im Osten</black-thema></Blacklist>
 <Blacklist><black-thema>Heute im Parlament</black-thema></Blacklist>
@@ -412,11 +427,14 @@
 <Blacklist><black-thema>Niedersachsen 18.00</black-thema></Blacklist>
 <Blacklist><black-thema>Niederösterreich heute</black-thema></Blacklist>
 <Blacklist><black-thema>Niederösterreich heute kompakt</black-thema></Blacklist>
+<Blacklist><black-thema>Nordische Kombination Damen Oberstdorf</black-thema></Blacklist>
+<Blacklist><black-thema>Nordische Kombination Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Nordmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Nordmagazin - Land und Leute</black-thema></Blacklist>
 <Blacklist><black-thema>Nordschau</black-thema></Blacklist>
 <Blacklist><black-thema>Nordtour</black-thema></Blacklist>
 <Blacklist><black-thema>Notruf Hafenkante</black-thema></Blacklist>
+<Blacklist><black-thema>OHNE GRENZEN Spezial</black-thema></Blacklist>
 <Blacklist><black-thema>ORF 1 Spezial</black-thema></Blacklist>
 <Blacklist><black-thema>ORF III AKTUELL</black-thema></Blacklist>
 <Blacklist><black-thema>ORF III AKTUELL am Abend</black-thema></Blacklist>
@@ -428,6 +446,7 @@
 <Blacklist><black-thema>Panda, Gorilla &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Panorama</black-thema></Blacklist>
 <Blacklist><black-thema>Panorama 3</black-thema></Blacklist>
+<Blacklist><black-thema>Parlament</black-thema></Blacklist>
 <Blacklist><black-thema>Passt, wackelt und hat Luft</black-thema></Blacklist>
 <Blacklist><black-thema>Pauk mit: Latein</black-thema></Blacklist>
 <Blacklist><black-thema>Pettersson und Findus</black-thema></Blacklist>
@@ -495,6 +514,7 @@
 <Blacklist><black-thema>SR Retro - Hüben und Drüben</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Im Dreieck</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Westmagazin</black-thema></Blacklist>
+<Blacklist><black-thema>SRF News spezial</black-thema></Blacklist>
 <Blacklist><black-thema>SRF Retro Quiz</black-thema></Blacklist>
 <Blacklist><black-thema>STUDIO 3 - Live aus Babelsberg</black-thema></Blacklist>
 <Blacklist><black-thema>SUPER.MARKT</black-thema></Blacklist>
@@ -523,6 +543,7 @@
 <Blacklist><black-thema>Salzburg heute</black-thema></Blacklist>
 <Blacklist><black-thema>Salzburg heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Sandmann</black-thema></Blacklist>
+<Blacklist><black-thema>Schlagerchampions - Das große Fest der Besten</black-thema></Blacklist>
 <Blacklist><black-thema>Schleswig-Holstein 18:00</black-thema></Blacklist>
 <Blacklist><black-thema>Schleswig-Holstein Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Schloss Einstein</black-thema></Blacklist>
@@ -533,18 +554,32 @@
 <Blacklist><black-thema>Schweiz aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>Schweiz aktuell in Gebärdensprache</black-thema></Blacklist>
 <Blacklist><black-thema>Seehund, Puma &amp; Co.</black-thema></Blacklist>
+<Blacklist><black-thema>Seelöwe &amp; Co. - tierisch beliebt</black-thema></Blacklist>
 <Blacklist><black-thema>Sehen statt Hören</black-thema></Blacklist>
 <Blacklist><black-thema>Seitenblicke</black-thema></Blacklist>
 <Blacklist><black-thema>Seitenblicke Sommerbühne</black-thema></Blacklist>
 <Blacklist><black-thema>Seitenblicke Weekend</black-thema></Blacklist>
 <Blacklist><black-thema>Selbstbestimmt</black-thema></Blacklist>
 <Blacklist><black-thema>Servicezeit</black-thema></Blacklist>
+<Blacklist><black-thema>Servus Baby</black-thema></Blacklist>
 <Blacklist><black-thema>Sesamstraße</black-thema></Blacklist>
 <Blacklist><black-thema>Sesamstraße Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Shaun das Schaf</black-thema></Blacklist>
 <Blacklist><black-thema>Show &amp; Musik</black-thema></Blacklist>
+<Blacklist><black-thema>Ski alpin Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Ski nordisch: Seefeld aktuell</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Damen</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Damen Lillehammer HS 98</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Damen Sapporo HS 134, Highlights</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Herren Lillehammer HS 98</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Herren Wisla</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Herren Wisla HS134</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen der Herren</black-thema></Blacklist>
+<Blacklist><black-thema>Skisprung-Weltcup der Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Skiweltcup</black-thema></Blacklist>
+<Blacklist><black-thema>Skiweltcup Riesenslalom Damen Mont-Tremblant</black-thema></Blacklist>
+<Blacklist><black-thema>Slalom der Damen Flachau</black-thema></Blacklist>
+<Blacklist><black-thema>Slalom der Herren Wengen</black-thema></Blacklist>
 <Blacklist><black-thema>Slowenien Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Smart10 - Das Quiz mit den zehn Möglichkeiten</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau</black-thema></Blacklist>
@@ -571,6 +606,8 @@
 <Blacklist><black-thema>Sportpanorama</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau Handball-EM 2024</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau Wintersport</black-thema></Blacklist>
 <Blacklist><black-thema>Sportsendungen</black-thema></Blacklist>
 <Blacklist><black-thema>Spät-ZIB</black-thema></Blacklist>
 <Blacklist><black-thema>St. Moritz aktuell</black-thema></Blacklist>
@@ -588,6 +625,7 @@
 <Blacklist><black-thema>Studio 2</black-thema></Blacklist>
 <Blacklist><black-thema>Sturm der Liebe</black-thema></Blacklist>
 <Blacklist><black-thema>Super Wings</black-thema></Blacklist>
+<Blacklist><black-thema>Super-G der Damen Zauchensee</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol Heute</black-thema></Blacklist>
 <Blacklist><black-thema>Südtirol heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Tagesgespräch</black-thema></Blacklist>
@@ -613,12 +651,17 @@
 <Blacklist><black-thema>Theodosia</black-thema></Blacklist>
 <Blacklist><black-thema>Tib &amp; Tumtum</black-thema></Blacklist>
 <Blacklist><black-thema>Tiere bis unters Dach</black-thema></Blacklist>
+<Blacklist><black-thema>Tierische Freunde</black-thema></Blacklist>
 <Blacklist><black-thema>Tierärztin Dr. Mertens</black-thema></Blacklist>
+<Blacklist><black-thema>Tips für Sie</black-thema></Blacklist>
 <Blacklist><black-thema>Tirol heute</black-thema></Blacklist>
 <Blacklist><black-thema>Tirol heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga-Finale</black-thema></Blacklist>
+<Blacklist><black-thema>Tour de Suisse -Veloclub</black-thema></Blacklist>
 <Blacklist><black-thema>Traumhäuser</black-thema></Blacklist>
+<Blacklist><black-thema>Traumpaar</black-thema></Blacklist>
+<Blacklist><black-thema>Trend – das Bildungsmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Täter - Opfer - Polizei</black-thema></Blacklist>
 <Blacklist><black-thema>U21-EM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Champions League</black-thema></Blacklist>
@@ -635,6 +678,7 @@
 <Blacklist><black-thema>Vierschanzentournee</black-thema></Blacklist>
 <Blacklist><black-thema>Visite</black-thema></Blacklist>
 <Blacklist><black-thema>Volle Kanne</black-thema></Blacklist>
+<Blacklist><black-thema>Volleyball</black-thema></Blacklist>
 <Blacklist><black-thema>Volleyball WVL Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Volleyball WVL Damen 2022</black-thema></Blacklist>
 <Blacklist><black-thema>Vom Ahorn bis zur Zwiebel</black-thema></Blacklist>
@@ -679,6 +723,7 @@
 <Blacklist><black-thema>Wickie und die starken Männer</black-thema></Blacklist>
 <Blacklist><black-thema>Wien heute</black-thema></Blacklist>
 <Blacklist><black-thema>Wien heute kompakt</black-thema></Blacklist>
+<Blacklist><black-thema>Willkommen Österreich</black-thema></Blacklist>
 <Blacklist><black-thema>Willkommen Österreich - Gäste, Gäste, Gäste</black-thema></Blacklist>
 <Blacklist><black-thema>Willkommen Österreich mit Stermann &amp; Grissemann</black-thema></Blacklist>
 <Blacklist><black-thema>Wintersport</black-thema></Blacklist>
@@ -713,6 +758,7 @@
 <Blacklist><black-thema>ZIB 2 History</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2 History: 75 Jahre Sozialpartnerschaft</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2 am Sonntag</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 3</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 9:00 NR</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash 16.03</black-thema></Blacklist>
@@ -821,6 +867,7 @@
 <Blacklist><black-thema>odysso - Wissen im SWR</black-thema></Blacklist>
 <Blacklist><black-thema>phoenix der tag</black-thema></Blacklist>
 <Blacklist><black-thema>phoenix parlament</black-thema></Blacklist>
+<Blacklist><black-thema>phoenix persönlich</black-thema></Blacklist>
 <Blacklist><black-thema>phoenix runde</black-thema></Blacklist>
 <Blacklist><black-thema>phoenix tagesgespräch</black-thema></Blacklist>
 <Blacklist><black-thema>phoenix vor ort</black-thema></Blacklist>
@@ -860,6 +907,7 @@
 <Blacklist><black-thema>tagesschau in 100 Sekunden</black-thema></Blacklist>
 <Blacklist><black-thema>tagesschau24</black-thema></Blacklist>
 <Blacklist><black-thema>ttt - titel, thesen, temperamente</black-thema></Blacklist>
+<Blacklist><black-thema>tubii – Die Gameshow</black-thema></Blacklist>
 <Blacklist><black-thema>unicato</black-thema></Blacklist>
 <Blacklist><black-thema>unmuted – Esports-Podcast</black-thema></Blacklist>
 <Blacklist><black-thema>wissen aktuell</black-thema></Blacklist>
@@ -919,7 +967,7 @@
 	<Meldungsfenster-Playermeldungen/>
 	<Meldungsfenster-Systemmeldungen/>
 	<nur-ascii>false</nur-ascii>
-	<Pfade-zum-Speichern>C:\Users\Michael\Videos\Tatort</Pfade-zum-Speichern>
+	<Pfade-zum-Speichern>C:\Users\Michael\Videos\Film</Pfade-zum-Speichern>
 	<pfad-ffmpeg>bin\ffmpeg.exe</pfad-ffmpeg>
 	<pfad-vlc>C:\Program Files\VideoLAN\VLC\vlc.exe</pfad-vlc>
 	<Player-zum-Abspielen/>
