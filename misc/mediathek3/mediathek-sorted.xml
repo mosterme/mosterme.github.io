@@ -66,6 +66,7 @@
 <Blacklist><black-thema>Abendschau - Der Süden</black-thema></Blacklist>
 <Blacklist><black-thema>Abstimmungen</black-thema></Blacklist>
 <Blacklist><black-thema>Ach du heilige Scheibe</black-thema></Blacklist>
+<Blacklist><black-thema>Ach du heilige Scheibe - Die Abenteuer von Mimo und Leva</black-thema></Blacklist>
 <Blacklist><black-thema>Aktuell nach eins</black-thema></Blacklist>
 <Blacklist><black-thema>Aktuell nach fünf</black-thema></Blacklist>
 <Blacklist><black-thema>Aktuelle Kamera</black-thema></Blacklist>
@@ -113,6 +114,8 @@
 <Blacklist><black-thema>Bianca - Wege zum Glück</black-thema></Blacklist>
 <Blacklist><black-thema>Bianca – Wege zum Glück</black-thema></Blacklist>
 <Blacklist><black-thema>Biathlon Weltcup Ruhpolding</black-thema></Blacklist>
+<Blacklist><black-thema>Biathlon Weltmeisterschaft 2024 aus Nove Mesto</black-thema></Blacklist>
+<Blacklist><black-thema>Biathlon-WM 2024</black-thema></Blacklist>
 <Blacklist><black-thema>Biathlon-Weltcup</black-thema></Blacklist>
 <Blacklist><black-thema>Biathlon-Weltcup der Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Bibi Blocksberg</black-thema></Blacklist>
@@ -139,10 +142,12 @@
 <Blacklist><black-thema>Campus Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Campus Talks</black-thema></Blacklist>
 <Blacklist><black-thema>Capriccio</black-thema></Blacklist>
+<Blacklist><black-thema>Champions League – Highlights</black-thema></Blacklist>
 <Blacklist><black-thema>Checker Reportagen</black-thema></Blacklist>
 <Blacklist><black-thema>Checker Tobi</black-thema></Blacklist>
 <Blacklist><black-thema>Conference League Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>Coronavirus-Update NDR Info</black-thema></Blacklist>
+<Blacklist><black-thema>DER TAG in Berlin &amp; Brandenburg</black-thema></Blacklist>
 <Blacklist><black-thema>DFB-Pokal</black-thema></Blacklist>
 <Blacklist><black-thema>DRS Aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>Dahoam is Dahoam</black-thema></Blacklist>
@@ -155,9 +160,11 @@
 <Blacklist><black-thema>Das aktuelle bonus-Quiz</black-thema></Blacklist>
 <Blacklist><black-thema>Data Science vs. Fake</black-thema></Blacklist>
 <Blacklist><black-thema>Der Bergdoktor</black-thema></Blacklist>
+<Blacklist><black-thema>Der Bozen-Krimi</black-thema></Blacklist>
 <Blacklist><black-thema>Der Landarzt</black-thema></Blacklist>
 <Blacklist><black-thema>Der Nationalfeiertag - Kranzniederlegung, Angelobung, Sonderministerrat</black-thema></Blacklist>
 <Blacklist><black-thema>Der Tag</black-thema></Blacklist>
+<Blacklist><black-thema>Der Winzerkönig</black-thema></Blacklist>
 <Blacklist><black-thema>Der kleine Rabe Socke</black-thema></Blacklist>
 <Blacklist><black-thema>Die Abenteuer des jungen Marco Polo</black-thema></Blacklist>
 <Blacklist><black-thema>Die Bergretter</black-thema></Blacklist>
@@ -217,18 +224,27 @@
 <Blacklist><black-thema>Englisch für Anfänger</black-thema></Blacklist>
 <Blacklist><black-thema>Ernest &amp; Rebecca</black-thema></Blacklist>
 <Blacklist><black-thema>Euromaxx</black-thema></Blacklist>
+<Blacklist><black-thema>Europa League</black-thema></Blacklist>
 <Blacklist><black-thema>Europamagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Eurovision Song Contest</black-thema></Blacklist>
 <Blacklist><black-thema>Exakt</black-thema></Blacklist>
 <Blacklist><black-thema>FIFA Frauen WM 2023</black-thema></Blacklist>
 <Blacklist><black-thema>FIFA Frauen-WM 2023</black-thema></Blacklist>
 <Blacklist><black-thema>FIFA Fußball-WM 2022 Magazin</black-thema></Blacklist>
+<Blacklist><black-thema>FIS Ski Weltcup Abfahrt der Herren Kitzbühel</black-thema></Blacklist>
+<Blacklist><black-thema>FIS Ski Weltcup Slalom der Damen Jasna</black-thema></Blacklist>
+<Blacklist><black-thema>FIS Ski Weltcup Slalom der Herren Kitzbühel</black-thema></Blacklist>
+<Blacklist><black-thema>FIS Skispringen</black-thema></Blacklist>
+<Blacklist><black-thema>FIS Skisprung Damen Weltcup</black-thema></Blacklist>
 <Blacklist><black-thema>Fakt oder Fake</black-thema></Blacklist>
 <Blacklist><black-thema>Familie Dr. Kleist</black-thema></Blacklist>
 <Blacklist><black-thema>Familien-Kochduell</black-thema></Blacklist>
+<Blacklist><black-thema>Fasnacht</black-thema></Blacklist>
+<Blacklist><black-thema>Fastnacht in Franken</black-thema></Blacklist>
 <Blacklist><black-thema>Fernsehfilme und Serien - Kurz und witzig</black-thema></Blacklist>
 <Blacklist><black-thema>Fest der Freude - Das Konzert</black-thema></Blacklist>
 <Blacklist><black-thema>Fest der Freude - Der Festakt</black-thema></Blacklist>
+<Blacklist><black-thema>Feuer &amp; Flamme</black-thema></Blacklist>
 <Blacklist><black-thema>Feuerwehrmann Sam</black-thema></Blacklist>
 <Blacklist><black-thema>Film ab!</black-thema></Blacklist>
 <Blacklist><black-thema>Fit Aktiv für Junggebliebene</black-thema></Blacklist>
@@ -263,23 +279,32 @@
 <Blacklist><black-thema>Fußball Nations League</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball Planet Pure Frauen Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball U21 Länderspiel</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball ÖFB Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Fußball-EM 2022</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball-EM 2024</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball: 2. Liga</black-thema></Blacklist>
+<Blacklist><black-thema>Fußball: ÖFB Cup Auslosung</black-thema></Blacklist>
 <Blacklist><black-thema>GESUNDHEITHEUTE</black-thema></Blacklist>
 <Blacklist><black-thema>GRIPS Deutsch</black-thema></Blacklist>
 <Blacklist><black-thema>GRIPS Englisch</black-thema></Blacklist>
 <Blacklist><black-thema>GRIPS Mathe</black-thema></Blacklist>
 <Blacklist><black-thema>Garfield</black-thema></Blacklist>
 <Blacklist><black-thema>Gefragt - Gejagt</black-thema></Blacklist>
+<Blacklist><black-thema>Gefragt – Gejagt</black-thema></Blacklist>
 <Blacklist><black-thema>Gesund in Salzburg</black-thema></Blacklist>
 <Blacklist><black-thema>Gesundheit!</black-thema></Blacklist>
 <Blacklist><black-thema>Giraffe, Erdmännchen &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Goldene Note 2022 by Leona König</black-thema></Blacklist>
 <Blacklist><black-thema>Grimme Preis</black-thema></Blacklist>
+<Blacklist><black-thema>Großstadtrevier</black-thema></Blacklist>
 <Blacklist><black-thema>Gute Nacht Österreich</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich 06.30</black-thema></Blacklist>
+<Blacklist><black-thema>Guten Morgen Österreich 06:30</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich 07.30</black-thema></Blacklist>
+<Blacklist><black-thema>Guten Morgen Österreich 07:30</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich 08.30</black-thema></Blacklist>
+<Blacklist><black-thema>Guten Morgen Österreich 08:30</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich Sommertour</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen, Internet!</black-thema></Blacklist>
 <Blacklist><black-thema>H2O - Abenteuer Meerjungfrau</black-thema></Blacklist>
@@ -293,10 +318,12 @@
 <Blacklist><black-thema>Handball</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Damen WHA Finale Spiel 2</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Herren EHF European Cup</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren EM</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA Halbfinale 1. Spiel</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren HLA-Finale 2</black-thema></Blacklist>
+<Blacklist><black-thema>Handball Herren WM-Play-off</black-thema></Blacklist>
 <Blacklist><black-thema>Handball Herren-EM 2024</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-EM</black-thema></Blacklist>
 <Blacklist><black-thema>Handball-EM 2024 Herren</black-thema></Blacklist>
@@ -313,6 +340,7 @@
 <Blacklist><black-thema>Hockey</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Damen Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Hockey Herren Bundesliga</black-thema></Blacklist>
+<Blacklist><black-thema>Hubert ohne Staller</black-thema></Blacklist>
 <Blacklist><black-thema>Ich mach's!</black-thema></Blacklist>
 <Blacklist><black-thema>In aller Freundschaft</black-thema></Blacklist>
 <Blacklist><black-thema>In aller Freundschaft - Die jungen Ärzte</black-thema></Blacklist>
@@ -339,12 +367,15 @@
 <Blacklist><black-thema>Kärnten heute</black-thema></Blacklist>
 <Blacklist><black-thema>Kärnten heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Kölner Treff</black-thema></Blacklist>
+<Blacklist><black-thema>LOLA TALKS 2024</black-thema></Blacklist>
 <Blacklist><black-thema>Land und Leute</black-thema></Blacklist>
 <Blacklist><black-thema>Landesart</black-thema></Blacklist>
 <Blacklist><black-thema>Landesschau Baden-Württemberg</black-thema></Blacklist>
 <Blacklist><black-thema>Landesschau Rheinland-Pfalz</black-thema></Blacklist>
 <Blacklist><black-thema>Landgasthäuser</black-thema></Blacklist>
 <Blacklist><black-thema>Landwirtschaft heute</black-thema></Blacklist>
+<Blacklist><black-thema>Langlauf-Weltcup der Damen</black-thema></Blacklist>
+<Blacklist><black-thema>Langlaufweltcup</black-thema></Blacklist>
 <Blacklist><black-thema>Lassie</black-thema></Blacklist>
 <Blacklist><black-thema>Lebenslinien</black-thema></Blacklist>
 <Blacklist><black-thema>Lecker aufs Land</black-thema></Blacklist>
@@ -373,6 +404,7 @@
 <Blacklist><black-thema>Lokalzeit aus Düsseldorf</black-thema></Blacklist>
 <Blacklist><black-thema>Lokalzeit aus Köln</black-thema></Blacklist>
 <Blacklist><black-thema>Lokalzeit-Geschichten</black-thema></Blacklist>
+<Blacklist><black-thema>Lotto 6 aus 45</black-thema></Blacklist>
 <Blacklist><black-thema>Lotto 6 aus 45 mit Joker</black-thema></Blacklist>
 <Blacklist><black-thema>Ländermagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Länderspiegel</black-thema></Blacklist>
@@ -391,10 +423,13 @@
 <Blacklist><black-thema>MDR um Zwei</black-thema></Blacklist>
 <Blacklist><black-thema>MDR+</black-thema></Blacklist>
 <Blacklist><black-thema>MOOOMENT!</black-thema></Blacklist>
+<Blacklist><black-thema>MTW</black-thema></Blacklist>
 <Blacklist><black-thema>MYSTERIUM</black-thema></Blacklist>
 <Blacklist><black-thema>Made in Germany</black-thema></Blacklist>
+<Blacklist><black-thema>Mamfie</black-thema></Blacklist>
 <Blacklist><black-thema>Manu Thiele</black-thema></Blacklist>
 <Blacklist><black-thema>Markt</black-thema></Blacklist>
+<Blacklist><black-thema>Markus Lanz</black-thema></Blacklist>
 <Blacklist><black-thema>Mascha und der Bär</black-thema></Blacklist>
 <Blacklist><black-thema>Matinee am Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>Max Ophüls Preis</black-thema></Blacklist>
@@ -429,11 +464,14 @@
 <Blacklist><black-thema>Niederösterreich heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Nordische Kombination Damen Oberstdorf</black-thema></Blacklist>
 <Blacklist><black-thema>Nordische Kombination Herren</black-thema></Blacklist>
+<Blacklist><black-thema>Nordische Kombination Weltcup</black-thema></Blacklist>
 <Blacklist><black-thema>Nordmagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Nordmagazin - Land und Leute</black-thema></Blacklist>
 <Blacklist><black-thema>Nordschau</black-thema></Blacklist>
 <Blacklist><black-thema>Nordtour</black-thema></Blacklist>
 <Blacklist><black-thema>Notruf Hafenkante</black-thema></Blacklist>
+<Blacklist><black-thema>Närrische Weinprobe</black-thema></Blacklist>
+<Blacklist><black-thema>Nö-Nö Schnabeltier</black-thema></Blacklist>
 <Blacklist><black-thema>OHNE GRENZEN Spezial</black-thema></Blacklist>
 <Blacklist><black-thema>ORF 1 Spezial</black-thema></Blacklist>
 <Blacklist><black-thema>ORF III AKTUELL</black-thema></Blacklist>
@@ -514,6 +552,7 @@
 <Blacklist><black-thema>SR Retro - Hüben und Drüben</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Im Dreieck</black-thema></Blacklist>
 <Blacklist><black-thema>SR Retro - Westmagazin</black-thema></Blacklist>
+<Blacklist><black-thema>SR info</black-thema></Blacklist>
 <Blacklist><black-thema>SRF News spezial</black-thema></Blacklist>
 <Blacklist><black-thema>SRF Retro Quiz</black-thema></Blacklist>
 <Blacklist><black-thema>STUDIO 3 - Live aus Babelsberg</black-thema></Blacklist>
@@ -553,6 +592,8 @@
 <Blacklist><black-thema>Schwaben + Altbayern</black-thema></Blacklist>
 <Blacklist><black-thema>Schweiz aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>Schweiz aktuell in Gebärdensprache</black-thema></Blacklist>
+<Blacklist><black-thema>Schwimm-EM 2024</black-thema></Blacklist>
+<Blacklist><black-thema>Schwimmen</black-thema></Blacklist>
 <Blacklist><black-thema>Seehund, Puma &amp; Co.</black-thema></Blacklist>
 <Blacklist><black-thema>Seelöwe &amp; Co. - tierisch beliebt</black-thema></Blacklist>
 <Blacklist><black-thema>Sehen statt Hören</black-thema></Blacklist>
@@ -566,23 +607,33 @@
 <Blacklist><black-thema>Sesamstraße Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Shaun das Schaf</black-thema></Blacklist>
 <Blacklist><black-thema>Show &amp; Musik</black-thema></Blacklist>
+<Blacklist><black-thema>Ski Weltcup Slalom der Herren Chamonix</black-thema></Blacklist>
 <Blacklist><black-thema>Ski alpin Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Ski nordisch: Seefeld aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Damen</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Damen Lillehammer HS 98</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Damen Sapporo HS 134, Highlights</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Damen Willingen HS 147</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Herren Lillehammer HS 98</black-thema></Blacklist>
+<Blacklist><black-thema>Skispringen Weltcup Herren Willingen HS 147</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Herren Wisla</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen Weltcup Herren Wisla HS134</black-thema></Blacklist>
 <Blacklist><black-thema>Skispringen der Herren</black-thema></Blacklist>
+<Blacklist><black-thema>Skisprung Damen Weltcup</black-thema></Blacklist>
+<Blacklist><black-thema>Skisprung-Weltcup</black-thema></Blacklist>
+<Blacklist><black-thema>Skisprung-Weltcup Herren Lake Placid HS 128 Super Team</black-thema></Blacklist>
 <Blacklist><black-thema>Skisprung-Weltcup der Herren</black-thema></Blacklist>
 <Blacklist><black-thema>Skiweltcup</black-thema></Blacklist>
+<Blacklist><black-thema>Skiweltcup Damen-Riesenslalom Jasna (SVK)</black-thema></Blacklist>
 <Blacklist><black-thema>Skiweltcup Riesenslalom Damen Mont-Tremblant</black-thema></Blacklist>
+<Blacklist><black-thema>Skiweltcup-Abfahrt der Herren Kitzbühel</black-thema></Blacklist>
 <Blacklist><black-thema>Slalom der Damen Flachau</black-thema></Blacklist>
 <Blacklist><black-thema>Slalom der Herren Wengen</black-thema></Blacklist>
 <Blacklist><black-thema>Slowenien Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>Smart10 - Das Quiz mit den zehn Möglichkeiten</black-thema></Blacklist>
 <Blacklist><black-thema>Soko Donau</black-thema></Blacklist>
+<Blacklist><black-thema>Soko Kitzbühel Staffel 20</black-thema></Blacklist>
+<Blacklist><black-thema>Soko Kitzbühel Staffel 8</black-thema></Blacklist>
 <Blacklist><black-thema>Sommergespräche 2022</black-thema></Blacklist>
 <Blacklist><black-thema>Sommergespräche 2023</black-thema></Blacklist>
 <Blacklist><black-thema>Sommergespräche 2023 (ÖGS)</black-thema></Blacklist>
@@ -607,6 +658,7 @@
 <Blacklist><black-thema>Sportschau</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Handball-EM 2024</black-thema></Blacklist>
+<Blacklist><black-thema>Sportschau UEFA EURO 2024</black-thema></Blacklist>
 <Blacklist><black-thema>Sportschau Wintersport</black-thema></Blacklist>
 <Blacklist><black-thema>Sportsendungen</black-thema></Blacklist>
 <Blacklist><black-thema>Spät-ZIB</black-thema></Blacklist>
@@ -658,6 +710,7 @@
 <Blacklist><black-thema>Tirol heute kompakt</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Tischtennis Herren Bundesliga-Finale</black-thema></Blacklist>
+<Blacklist><black-thema>Tischtennis: Bundesliga</black-thema></Blacklist>
 <Blacklist><black-thema>Tour de Suisse -Veloclub</black-thema></Blacklist>
 <Blacklist><black-thema>Traumhäuser</black-thema></Blacklist>
 <Blacklist><black-thema>Traumpaar</black-thema></Blacklist>
@@ -666,6 +719,9 @@
 <Blacklist><black-thema>U21-EM-Qualifikation</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Champions League</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA EURO 2020</black-thema></Blacklist>
+<Blacklist><black-thema>UEFA EURO 2024</black-thema></Blacklist>
+<Blacklist><black-thema>UEFA EURO 2024 Clips</black-thema></Blacklist>
+<Blacklist><black-thema>UEFA EURO 2024 Nati-Magazin</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Europa League und Conference League Halbfinale</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Nations League</black-thema></Blacklist>
 <Blacklist><black-thema>UEFA Nations League Spieltag 2</black-thema></Blacklist>
@@ -697,8 +753,10 @@
 <Blacklist><black-thema>WaPo Duisburg</black-thema></Blacklist>
 <Blacklist><black-thema>Was gibt es Neues?</black-thema></Blacklist>
 <Blacklist><black-thema>Was gibt es Neues? - Archivfolge</black-thema></Blacklist>
+<Blacklist><black-thema>Was gibt es Neues? Archivfolge</black-thema></Blacklist>
 <Blacklist><black-thema>Waschen, Schneiden, Leben!</black-thema></Blacklist>
 <Blacklist><black-thema>Weissensee</black-thema></Blacklist>
+<Blacklist><black-thema>Weltcup-Slalom der Herren Kitzbühel</black-thema></Blacklist>
 <Blacklist><black-thema>Weltspiegel</black-thema></Blacklist>
 <Blacklist><black-thema>Wendy</black-thema></Blacklist>
 <Blacklist><black-thema>Wer weiß denn sowas?</black-thema></Blacklist>
@@ -737,6 +795,7 @@
 <Blacklist><black-thema>Wirtshausmusikanten</black-thema></Blacklist>
 <Blacklist><black-thema>Wissen vor 8 - Werkstatt</black-thema></Blacklist>
 <Blacklist><black-thema>Wissper</black-thema></Blacklist>
+<Blacklist><black-thema>World Aquatics Schwimm Weltmeisterschaft 2024 Doha</black-thema></Blacklist>
 <Blacklist><black-thema>World Beach Pro Tour Baden Futures 2023</black-thema></Blacklist>
 <Blacklist><black-thema>Wort zum Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>Wuffel, der Wunderhund</black-thema></Blacklist>
@@ -754,11 +813,15 @@
 <Blacklist><black-thema>ZIB</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 1</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 1 (ÖGS)</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 17:00</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2 History</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2 History: 75 Jahre Sozialpartnerschaft</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2 am Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 3</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 7:00</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 8:00</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 9:00</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 9:00 NR</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash 16.03</black-thema></Blacklist>
@@ -801,6 +864,7 @@
 <Blacklist><black-thema>aktueller bericht am Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>alle wetter!</black-thema></Blacklist>
 <Blacklist><black-thema>alles wissen</black-thema></Blacklist>
+<Blacklist><black-thema>alpha Lernen | Deutsch</black-thema></Blacklist>
 <Blacklist><black-thema>alpha Uni</black-thema></Blacklist>
 <Blacklist><black-thema>alpha-retro</black-thema></Blacklist>
 <Blacklist><black-thema>alwaysxcaro</black-thema></Blacklist>
@@ -839,6 +903,7 @@
 <Blacklist><black-thema>heute - in Europa</black-thema></Blacklist>
 <Blacklist><black-thema>heute 19 Uhr</black-thema></Blacklist>
 <Blacklist><black-thema>heute 19:00 Uhr</black-thema></Blacklist>
+<Blacklist><black-thema>heute in Europa</black-thema></Blacklist>
 <Blacklist><black-thema>heute journal</black-thema></Blacklist>
 <Blacklist><black-thema>heute journal update</black-thema></Blacklist>
 <Blacklist><black-thema>heute plus</black-thema></Blacklist>
@@ -913,9 +978,11 @@
 <Blacklist><black-thema>wissen aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>zibb</black-thema></Blacklist>
 <Blacklist><black-thema>¡Pregunta ya!</black-thema></Blacklist>
+<Blacklist><black-thema>ÖFB Cup Viertelfinale</black-thema></Blacklist>
 <Blacklist><black-thema>ÖFB-Cup</black-thema></Blacklist>
 <Blacklist><black-thema>ÖFB-Cup 1. Runde</black-thema></Blacklist>
 <Blacklist><black-thema>ÖFB-Cup 3. Runde</black-thema></Blacklist>
+<Blacklist><black-thema>ÖFB-Cup Viertelfinale</black-thema></Blacklist>
 <Blacklist><black-thema>ÖFB-Cup-Finale 2021</black-thema></Blacklist>
 <Blacklist><black-thema>Österreich Heute</black-thema></Blacklist>
 <Blacklist><black-thema>Österreich Heute - Das Magazin</black-thema></Blacklist>
@@ -926,17 +993,17 @@
 	<Abos-sofort-suchen>true</Abos-sofort-suchen>
 	<Ansicht-Set-lang/>
 	<Blacklist-auch-Abo/>
-	<Blacklist-ausgeschaltet>false</Blacklist-ausgeschaltet>
+	<Blacklist-ausgeschaltet>true</Blacklist-ausgeschaltet>
 	<Blacklist-Filmlaenge>0</Blacklist-Filmlaenge>
 	<Blacklist-ist-Whitelist/>
-	<Blacklist-Start-ausgeschaltet>false</Blacklist-Start-ausgeschaltet>
+	<Blacklist-Start-ausgeschaltet>true</Blacklist-Start-ausgeschaltet>
 	<Blacklist-Zukunft-nicht-anzeigen/>
 	<Dialog-Download-D-Starten>true</Dialog-Download-D-Starten>
 	<download-error-msg>true</download-error-msg>
 	<Download-Ordner-oeffnen/>
 	<Download-sofort-starten>false</Download-sofort-starten>
 	<Eigenschaften-Tabellen-Abos/>
-	<Eigenschaften-Tabellen-Downloads>75,75,150,100,150,343,50,50,100,100,100,100,100,100,100,50,50,0,100,0,0,200,0,0,200,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39|5|ASCENDING</Eigenschaften-Tabellen-Downloads>
+	<Eigenschaften-Tabellen-Downloads>75,75,150,100,150,343,50,50,100,100,100,100,100,100,100,50,50,0,100,0,0,200,0,0,200,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39|0|ASCENDING</Eigenschaften-Tabellen-Downloads>
 	<Eigenschaften-Tabellen-Filme>75,100,294,493,20,20,20,85,49,100,100,50,50,100,500,0,0|0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,0,0|7|DESCENDING</Eigenschaften-Tabellen-Filme>
 	<Ersetzungstabelle-verwenden>false</Ersetzungstabelle-verwenden>
 	<FARBE_BUTTON_SET_ABSPIELEN/>
@@ -967,7 +1034,7 @@
 	<Meldungsfenster-Playermeldungen/>
 	<Meldungsfenster-Systemmeldungen/>
 	<nur-ascii>false</nur-ascii>
-	<Pfade-zum-Speichern>C:\Users\Michael\Videos\Film</Pfade-zum-Speichern>
+	<Pfade-zum-Speichern>C:\Users\Michael\Videos\Cinéma - Films</Pfade-zum-Speichern>
 	<pfad-ffmpeg>bin\ffmpeg.exe</pfad-ffmpeg>
 	<pfad-vlc>C:\Program Files\VideoLAN\VLC\vlc.exe</pfad-vlc>
 	<Player-zum-Abspielen/>
