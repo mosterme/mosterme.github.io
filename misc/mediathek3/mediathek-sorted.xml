@@ -79,6 +79,7 @@
 <Blacklist><black-thema>Aktuelles und Gesellschaft - Perspektivwechsel</black-thema></Blacklist>
 <Blacklist><black-thema>Aktuelles und Gesellschaft - Reportagen und Recherchen</black-thema></Blacklist>
 <Blacklist><black-thema>Alles Klara</black-thema></Blacklist>
+<Blacklist><black-thema>Alpen-Donau-Adria</black-thema></Blacklist>
 <Blacklist><black-thema>Amadeus Austrian Music Award 2022</black-thema></Blacklist>
 <Blacklist><black-thema>Anne Will</black-thema></Blacklist>
 <Blacklist><black-thema>Antenne</black-thema></Blacklist>
@@ -297,6 +298,7 @@
 <Blacklist><black-thema>Goldene Note 2022 by Leona König</black-thema></Blacklist>
 <Blacklist><black-thema>Grimme Preis</black-thema></Blacklist>
 <Blacklist><black-thema>Großstadtrevier</black-thema></Blacklist>
+<Blacklist><black-thema>Guetnachtgschichtli</black-thema></Blacklist>
 <Blacklist><black-thema>Gute Nacht Österreich</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich</black-thema></Blacklist>
 <Blacklist><black-thema>Guten Morgen Österreich 06.30</black-thema></Blacklist>
@@ -406,6 +408,7 @@
 <Blacklist><black-thema>Lokalzeit-Geschichten</black-thema></Blacklist>
 <Blacklist><black-thema>Lotto 6 aus 45</black-thema></Blacklist>
 <Blacklist><black-thema>Lotto 6 aus 45 mit Joker</black-thema></Blacklist>
+<Blacklist><black-thema>Lotto am Samstag</black-thema></Blacklist>
 <Blacklist><black-thema>Ländermagazin</black-thema></Blacklist>
 <Blacklist><black-thema>Länderspiegel</black-thema></Blacklist>
 <Blacklist><black-thema>MARKTCHECK</black-thema></Blacklist>
@@ -641,6 +644,7 @@
 <Blacklist><black-thema>Sport</black-thema></Blacklist>
 <Blacklist><black-thema>Sport 20</black-thema></Blacklist>
 <Blacklist><black-thema>Sport Aktuell</black-thema></Blacklist>
+<Blacklist><black-thema>Sport Aktuell (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>Sport Aktuell mit Champions League</black-thema></Blacklist>
 <Blacklist><black-thema>Sport am Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>Sport im Fernsehfunk</black-thema></Blacklist>
@@ -774,6 +778,7 @@
 <Blacklist><black-thema>Wetter Tirol</black-thema></Blacklist>
 <Blacklist><black-thema>Wetter Vorarlberg</black-thema></Blacklist>
 <Blacklist><black-thema>Wetter Wien</black-thema></Blacklist>
+<Blacklist><black-thema>Wetter ZIB 13</black-thema></Blacklist>
 <Blacklist><black-thema>Wetter für 3</black-thema></Blacklist>
 <Blacklist><black-thema>Wetter vor acht</black-thema></Blacklist>
 <Blacklist><black-thema>Wetter-Panorama</black-thema></Blacklist>
@@ -813,6 +818,7 @@
 <Blacklist><black-thema>ZIB</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 1</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 1 (ÖGS)</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 13:00</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 17:00</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 2 History</black-thema></Blacklist>
@@ -820,7 +826,9 @@
 <Blacklist><black-thema>ZIB 2 am Sonntag</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 3</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 7:00</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 7:30</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 8:00</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB 8:30</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 9:00</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB 9:00 NR</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash</black-thema></Blacklist>
@@ -829,12 +837,14 @@
 <Blacklist><black-thema>ZIB Flash 17.50</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Flash 19.56</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Magazin</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB Magazin Klima</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Nacht</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Spezial</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Spezial zum Rücktritt des Tiroler Landeshauptmannes Günther Platter</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Spezial: PK zur Kandidatur von Walter Rosenkranz</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Spezial: Zur Nachfolge des steirischen Landeshauptmanns Hermann Schützenhöfer</black-thema></Blacklist>
 <Blacklist><black-thema>ZIB Zack Mini</black-thema></Blacklist>
+<Blacklist><black-thema>ZIB Zack Mini (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>Zacki und die Zoobande</black-thema></Blacklist>
 <Blacklist><black-thema>Zamborium</black-thema></Blacklist>
 <Blacklist><black-thema>Zambox</black-thema></Blacklist>
@@ -852,6 +862,8 @@
 <Blacklist><black-thema>Zwei Münchner in Hamburg</black-thema></Blacklist>
 <Blacklist><black-thema>Zwei am Morge</black-thema></Blacklist>
 <Blacklist><black-thema>Zwischen Spessart und Karwendel</black-thema></Blacklist>
+<Blacklist><black-thema>[WETTER] ZIB</black-thema></Blacklist>
+<Blacklist><black-thema>[WETTER] ZIB (ÖGS)</black-thema></Blacklist>
 <Blacklist><black-thema>aktiv und gesund</black-thema></Blacklist>
 <Blacklist><black-thema>aktuell</black-thema></Blacklist>
 <Blacklist><black-thema>aktuell (16 Uhr)</black-thema></Blacklist>
