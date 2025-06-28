@@ -3,5 +3,6 @@
 <a href="./bullshit/">bullshit</a>,
 <a href="./joggle/">joggle</a>,
 <a href="./hessen/">leaflet demo</a>,
+<a href="./miscellaneous-slides/">miscellaneous slides</a>,
 <a href="./timestamplet/">timestamplet</a>
 <a href="https://mosterme.github.io/">.</a>
